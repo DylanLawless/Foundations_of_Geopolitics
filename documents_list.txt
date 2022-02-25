@@ -1,0 +1,74 @@
+.
+├── README.md
+├── documents
+│   ├── original_doc
+│   │   └── Osnovy_Geopolitiki.doc
+│   ├── original_split
+│   │   ├── chapter\ 0.docx
+│   │   ├── chapter\ 1\ A.docx
+│   │   ├── chapter\ 1\ B.docx
+│   │   ├── chapter\ 2\ A.docx
+│   │   ├── chapter\ 2\ B.docx
+│   │   ├── chapter\ 3.docx
+│   │   ├── chapter\ 4\ A.docx
+│   │   ├── chapter\ 4\ B.docx
+│   │   ├── chapter\ 4\ C.docx
+│   │   ├── chapter\ 5\ A.docx
+│   │   ├── chapter\ 5\ B.docx
+│   │   ├── chapter\ 6\ A.docx
+│   │   ├── chapter\ 6\ B.docx
+│   │   ├── chapter\ 6\ C.docx
+│   │   ├── chapter\ 7.docx
+│   │   ├── chapter\ 8\ A.docx
+│   │   ├── chapter\ 8\ B.docx
+│   │   ├── chapter\ 8\ C1.docx
+│   │   ├── chapter\ 8\ C2.docx
+│   │   ├── chapter\ 8\ C3.docx
+│   │   ├── chapter\ 8\ C4.docx
+│   │   ├── chapter\ 8\ D1A.docx
+│   │   ├── chapter\ 8\ D1B.docx
+│   │   ├── chapter\ 8\ D2.docx
+│   │   ├── chapter\ 8\ D3.docx
+│   │   ├── chapter\ 8\ D4.docx
+│   │   └── chapter\ 8\ D5.docx
+│   ├── translated_merge
+│   │   └── merge_complete.docx
+│   └── translated_split
+│       ├── chapter\ 0\ en-GB.docx
+│       ├── chapter\ 1\ A\ en-GB.docx
+│       ├── chapter\ 1\ B\ en-GB.docx
+│       ├── chapter\ 2\ A\ en-GB.docx
+│       ├── chapter\ 2\ B\ en-GB.docx
+│       ├── chapter\ 3\ en-GB.docx
+│       ├── chapter\ 4\ A\ en-GB.docx
+│       ├── chapter\ 4\ B\ en-GB.docx
+│       ├── chapter\ 4\ C\ en-GB.docx
+│       ├── chapter\ 5\ A\ en-GB.docx
+│       ├── chapter\ 5\ B\ en-GB.docx
+│       ├── chapter\ 6\ A\ en-GB.docx
+│       ├── chapter\ 6\ B\ en-GB.docx
+│       ├── chapter\ 6\ C\ en-GB.docx
+│       ├── chapter\ 7\ en-GB.docx
+│       ├── chapter\ 8\ A\ en-GB.docx
+│       ├── chapter\ 8\ B\ en-GB.docx
+│       ├── chapter\ 8\ C1\ en-GB.docx
+│       ├── chapter\ 8\ C2\ en-GB.docx
+│       ├── chapter\ 8\ C3\ en-GB.docx
+│       ├── chapter\ 8\ C4\ en-GB.docx
+│       ├── chapter\ 8\ D1A\ en-GB.docx
+│       ├── chapter\ 8\ D1B\ en-GB.docx
+│       ├── chapter\ 8\ D2\ en-GB.docx
+│       ├── chapter\ 8\ D3\ en-GB.docx
+│       ├── chapter\ 8\ D4\ en-GB.docx
+│       └── chapter\ 8\ D5\ en-GB.docx
+├── documents_list.txt
+├── latex
+│   ├── translated_complete.tex
+│   ├── translated_complete_cleaned.aux
+│   ├── translated_complete_cleaned.log
+│   ├── translated_complete_cleaned.pdf
+│   └── translated_complete_cleaned.tex
+└── src
+    └── docx_to_latex.sh
+
+7 directories, 64 files
