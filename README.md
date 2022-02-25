@@ -1,6 +1,13 @@
 # The Basis of Geopolitics
 ## Alexander Dugin
 
+[Link to PDF](https://github.com/DylanLawless/The_Basis_of_Geopolitics/blob/master/latex/translated_complete_cleaned_manual.pdf)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Foundations_of_Geopolitics)
+
+The books is translated because I am unable to find it online. 
+This is not meant to reflect any endoursement of the content. 
+I just translated this to make a LaTeX and epub version for my E-reader. 
 
 # Original source
 <http://konservatizm.org/konservatizm/books/130909045213.xhtml>
@@ -13,8 +20,7 @@ Cover image
 2. docx deepl Russian to British English
 3. docx merge to single
 4. convert to LateX
-
-textutil -convert html test.docx -stdout | pandoc -s -f html -t latex -o latexdoc.tex
+5. Manual formatting
 
 # Documents
 Since the document was sourced in docx format, many intermediate steps also required docx.
