@@ -1,219 +1,258 @@
-\contentsline {part}{PART I FOUNDING FATHERS OF GEOPOLITICS}{24}{section*.1}
-\contentsline {section}{Friedrich Ratzel States as spatial organisms}{25}{section*.1}
-\contentsline {subsection}{1.2 States as living organisms}{25}{section*.1}
-\contentsline {subsection}{1.3. Raum political organisation of the soil}{27}{section*.1}
-\contentsline {subsection}{1.4 The law of expansion}{28}{section*.1}
-\contentsline {subsection}{1.5 Weltmacht and the sea}{29}{section*.1}
-\contentsline {section}{Rudolf Schellen and Friedrich Naumann Middle Europe}{30}{section*.1}
-\contentsline {subsection}{2.1 The definition of new science}{30}{section*.1}
-\contentsline {subsection}{2.2 The state as a form of life and Germany's interests}{31}{section*.1}
-\contentsline {subsection}{2.3 Towards a Middle European concept}{32}{section*.1}
-\contentsline {section}{Halford Mackinder "The geographical axis of history"}{33}{section*.1}
-\contentsline {subsection}{3.1 Scientist and politician}{33}{section*.1}
-\contentsline {subsection}{3.2 The geographical axis of history}{34}{section*.1}
-\contentsline {subsection}{3.3 Russia's key position}{35}{section*.1}
-\contentsline {subsection}{3.4 Three geopolitical periods}{38}{section*.1}
-\contentsline {section}{Alfred Mahan "Sea Power"}{39}{section*.1}
-\contentsline {subsection}{4.1 Sea Power}{39}{section*.1}
-\contentsline {subsection}{4.2 Maritime civilisation = commercial civilisation}{40}{section*.1}
-\contentsline {subsection}{4.3 Conquering the world USA}{41}{section*.1}
-\contentsline {section}{Vidal de la Blanche "France versus Germany"}{44}{section*.1}
-\contentsline {subsection}{5.1 A picture of the geography of France}{44}{section*.1}
-\contentsline {subsection}{5.2 Possibilism}{44}{section*.1}
-\contentsline {subsection}{5.3 France for Sea Power}{45}{section*.1}
-\contentsline {section}{Nicholas Speakman "The McInder revision, the centrality of rimland"}{46}{section*.1}
-\contentsline {subsection}{6.1 In the service of America }{46}{section*.1}
-\contentsline {subsection}{6.2 McInder correction}{47}{section*.1}
-\contentsline {subsection}{6.3 Power scales}{48}{section*.1}
-\contentsline {subsection}{6.4 Mid-Ocean}{49}{section*.1}
-\contentsline {subsection}{6.5 The Architect of American Victory}{50}{section*.1}
-\contentsline {section}{Karl Haushofer Continental Bloc}{51}{section*.1}
-\contentsline {subsection}{7.1 War and thought}{51}{section*.1}
-\contentsline {subsection}{7.2 The New Eurasian Order}{52}{section*.1}
-\contentsline {subsection}{7.3 Compromise with Thalassocracy}{54}{section*.1}
-\contentsline {section}{Karl Schmitt "Hippo versus Leviathan"}{55}{section*.1}
-\contentsline {subsection}{8.1 Conservative revolutionary}{55}{section*.1}
-\contentsline {subsection}{8.2 Nomos of the earth}{57}{section*.1}
-\contentsline {subsection}{8.3 Land and Sea}{58}{section*.1}
-\contentsline {subsection}{8.4 Grossraum}{59}{section*.1}
-\contentsline {subsection}{8.5 Total war and the figure of the "guerrilla"}{61}{section*.1}
-\contentsline {section}{Pyotr Savitsky "Eurasia the Middle Earth"}{62}{section*.1}
-\contentsline {subsection}{9.1 The fate of the Eurasian}{62}{section*.1}
-\contentsline {subsection}{9.2 Russia-Eurasia}{63}{section*.1}
-\contentsline {subsection}{9.3 Turan}{64}{section*.1}
-\contentsline {subsection}{9.4 Place-based development}{66}{section*.1}
-\contentsline {subsection}{9.5 Ideocracy}{67}{section*.1}
-\contentsline {subsection}{9.6 The USSR and Eurasianism}{68}{section*.1}
-\contentsline {section}{Geopolitics as an instrument of national policy}{70}{section*.1}
-\contentsline {subsection}{10.1 Planetary dualism basic law of geopolitics}{70}{section*.1}
-\contentsline {subsection}{10.2 A geopolitician cannot help but be engaged}{71}{section*.1}
-\contentsline {subsection}{10.3 The fate of scholars The fate of powers}{73}{section*.1}
-\contentsline {part}{Part II Modern geopolitical theories and schools}{74}{section*.2}
-\contentsline {section}{Overview}{75}{section*.2}
-\contentsline {section}{Modern Atlanticism}{78}{section*.2}
-\contentsline {subsection}{2.1 Spickman followers D.W. Maynig, W. Kirk, S.B. Cohen, C. Gray, G. Kissinger}{78}{section*.2}
-\contentsline {subsection}{2.2 The Atlantists won the Cold War}{80}{section*.2}
-\contentsline {subsection}{2.3 Aerocracy and etherocracy}{83}{section*.2}
-\contentsline {subsection}{2.4 Two versions of recent Atlanticism}{86}{section*.2}
-\contentsline {subsection}{2.5 The Clash of Civilisations: Huntington's Neo-Atlantism}{87}{section*.2}
-\contentsline {section}{Mondialism}{90}{section*.2}
-\contentsline {subsection}{3.1 Prehistory of Mondialism}{90}{section*.2}
-\contentsline {subsection}{3.3 A planetary victory for the West}{94}{section*.2}
-\contentsline {subsection}{3.4 Francis Fukuyama's The End of History}{95}{section*.2}
-\contentsline {subsection}{3.5 Jacques Attali's Geoeconomics}{96}{section*.2}
-\contentsline {subsection}{3.6 Professor Santoro's post-catastrophic mondialism}{98}{section*.2}
-\contentsline {section}{Applied geopolitics}{99}{section*.2}
-\contentsline {subsection}{4.1 "Domestic geopolitics" by the Yves Lacoste school}{99}{section*.2}
-\contentsline {subsection}{4.2 Electoral "geopolitics"}{100}{section*.2}
-\contentsline {subsection}{4.3 Mediaocracy as a ``geopolitical'' factor}{101}{section*.2}
-\contentsline {subsection}{4.4 History of geopolitics}{102}{section*.2}
-\contentsline {subsection}{4.5 "Applied geopolitics" not geopolitics}{102}{section*.2}
-\contentsline {section}{The geopolitics of the European New Right}{103}{section*.2}
-\contentsline {subsection}{5.1 Europe of the hundred flags Alain de Benoit}{103}{section*.2}
-\contentsline {subsection}{5.2 Europe from Vladivostok to Dublin Jean Thiriar}{106}{section*.2}
-\contentsline {subsection}{5.3 Thinking Continents by Jordis von Lohausen}{107}{section*.2}
-\contentsline {subsection}{5.4 The Eurasian Empire of the End by Jean Parvulesco}{109}{section*.2}
-\contentsline {subsection}{5.5 The Indian Ocean as a route to world domination}{111}{section*.2}
-\contentsline {subsection}{5.6 Russia + Islam = Salvation of Europe by Carlo Terracciano}{112}{section*.2}
-\contentsline {section}{Neo-Eurasianism}{114}{section*.2}
-\contentsline {subsection}{6.1 Eurasian passionarity Lev Gumilev}{114}{section*.2}
-\contentsline {subsection}{6.2 The New Russian Eurasians}{116}{section*.2}
-\contentsline {subsection}{6.3 Towards a new bipolarity}{119}{section*.2}
-\contentsline {part}{3 RUSSIA AND SPACE}{122}{section*.3}
-\contentsline {section}{Heartland}{122}{section*.3}
-\contentsline {section}{The Rimland problem}{123}{section*.3}
-\contentsline {section}{Gathering the Empire}{125}{section*.3}
-\contentsline {section}{Warm and cold seas}{128}{section*.3}
-\contentsline {part}{PART 4 RUSSIA'S GEOPOLITICAL FUTURE}{129}{section*.4}
-\contentsline {section}{The need for a radical alternative}{129}{section*.4}
-\contentsline {section}{What is the "Russian national interest"?}{131}{section*.4}
-\contentsline {subsection}{2.1 The Russians have no State today}{131}{section*.4}
-\contentsline {subsection}{2.2 The concept of "post-imperial legitimacy}{134}{section*.4}
-\contentsline {subsection}{2.3 Russian people at the centre of the geopolitical concept}{137}{section*.4}
-\contentsline {section}{Russia is unthinkable without Empire}{141}{section*.4}
-\contentsline {subsection}{3.1 The Russians' lack of a "nation-state}{141}{section*.4}
-\contentsline {subsection}{3.2 The Russian people of the Empire}{144}{section*.4}
-\contentsline {subsection}{3.3 The "regional power" trap}{146}{section*.4}
-\contentsline {subsection}{3.4 Critique of Soviet statehood}{149}{section*.4}
-\contentsline {subsection}{3.5 Criticism of Tsarist statehood}{154}{section*.4}
-\contentsline {subsection}{3.6 Towards a new Eurasian Empire}{158}{section*.4}
-\contentsline {section}{Redivision of the world}{161}{section*.4}
-\contentsline {subsection}{4.1 Land and Sea. A common enemy}{161}{section*.4}
-\contentsline {subsection}{4.2 The Western Axis: Moscow Berlin. European Empire and Eurasia}{165}{section*.4}
-\contentsline {subsection}{4.3 The Moscow-Tokyo axis. The Pan-Asian Project. Towards a Eurasian Trilateral Commission}{171}{section*.4}
-\contentsline {subsection}{4.4 Axis Moscow Tehran. Central Asian Empire. Pan-Arab project}{179}{section*.4}
-\contentsline {subsection}{4.5 An empire of many empires}{185}{section*.4}
-\contentsline {section}{Russia's fate in imperial Eurasia}{188}{section*.4}
-\contentsline {subsection}{5.1 Geopolitical magic for national purposes}{188}{section*.4}
-\contentsline {subsection}{5.2 Russian nationalism. Ethnic Demography and Empire}{192}{section*.4}
-\contentsline {subsection}{5.3 The Russian question after the coming victory}{196}{section*.4}
-\contentsline {section}{Military aspects of the Empire}{199}{section*.4}
-\contentsline {section}{6.1 Prioritising nuclear and intercontinental capabilities}{199}{section*.4}
-\contentsline {subsection}{6.2 What kind of armed forces does a great Russia need?}{203}{section*.4}
-\contentsline {section}{Technology and resources}{207}{section*.4}
-\contentsline {subsection}{7.1 Technology deficits}{207}{section*.4}
-\contentsline {subsection}{7.2 Russian resources}{209}{section*.4}
-\contentsline {section}{Economic aspects of the New Empire}{212}{section*.4}
-\contentsline {subsection}{8.1 The economics of the 'third way'}{212}{section*.4}
-\contentsline {subsection}{8.2 Economic regionalism}{219}{section*.4}
-\contentsline {part}{PART 5 RUSSIA'S INTERNAL GEOPOLITICS}{223}{section*.5}
-\contentsline {section}{Subject and method}{224}{section*.5}
-\contentsline {subsection}{1.1 Russia's domestic geopolitics depends on its planetary function}{224}{section*.5}
-\contentsline {subsection}{1.2 Domestic geopolitics and military doctrine}{225}{section*.5}
-\contentsline {subsection}{1.3 Centre and periphery}{227}{section*.5}
-\contentsline {subsection}{1.4 Internal axes ('geopolitical rays')}{230}{section*.5}
-\contentsline {section}{The road to the north}{232}{section*.5}
-\contentsline {subsection}{2.1 Analysis model}{232}{section*.5}
-\contentsline {subsection}{2.2 The geopolitical nature of the Russian Arctic}{233}{section*.5}
-\contentsline {subsection}{2.3 North + North}{235}{section*.5}
-\contentsline {subsection}{2.4 North + Centre}{238}{section*.5}
-\contentsline {subsection}{2.5 The Finnish question}{240}{section*.5}
-\contentsline {subsection}{2.6 North and Non-North}{242}{section*.5}
-\contentsline {subsection}{2.7 Summary}{248}{section*.5}
-\contentsline {section}{Calling the East}{249}{section*.5}
-\contentsline {subsection}{3.1 "Inner East" (scope of the concept) }{249}{section*.5}
-\contentsline {subsection}{3.2 The "Russian Siberian" belt (structure)}{250}{section*.5}
-\contentsline {subsection}{3.3 The positional battle for Lenaland}{255}{section*.5}
-\contentsline {subsection}{3.4 The capital of Siberia}{258}{section*.5}
-\contentsline {section}{THE NEW GEOPOLITICAL GOVERNMENT OF THE SOUTH}{260}{section*.5}
-\contentsline {subsection}{4.1 The "New Geopolitical Order" of the South}{260}{section*.5}
-\contentsline {subsection}{4.2 Boundary zones and mountains}{261}{section*.5}
-\contentsline {subsection}{4.3 The Balkans}{263}{section*.5}
-\contentsline {subsection}{4.4 The problem of a sovereign Ukraine}{266}{section*.5}
-\contentsline {subsection}{4.5 Between the Black Sea and the Caspian Sea}{267}{section*.5}
-\contentsline {subsection}{4.6 The New Geopolitical Order in Central Asia}{270}{section*.5}
-\contentsline {subsection}{4.7 The Fall of China}{275}{section*.5}
-\contentsline {subsection}{4.8 From the Balkans to Manchuria}{279}{section*.5}
-\contentsline {section}{Threat of the West}{279}{section*.5}
-\contentsline {subsection}{5.1 Two Wests}{279}{section*.5}
-\contentsline {subsection}{5.2 Break down the 'sanitation cordon'}{283}{section*.5}
-\contentsline {subsection}{5.3 Baltic Federation}{285}{section*.5}
-\contentsline {subsection}{5.4 Catholic Slavs enter Central Europe}{287}{section*.5}
-\contentsline {subsection}{5.5 Unification of Belarus and Greater Russia}{289}{section*.5}
-\contentsline {subsection}{5.6 Geopolitical Decomposition of Ukraine}{290}{section*.5}
-\contentsline {subsection}{5.7 Romania and Moldova integration under which sign?}{295}{section*.5}
-\contentsline {subsection}{5.8 Prerequisite: soil, not blood}{296}{section*.5}
-\contentsline {part}{PART 6 EURASIAN ANALYSIS}{297}{section*.6}
-\contentsline {section}{GEOPOLITICS OF GOVERNMENT}{297}{section*.6}
-\contentsline {subsection}{1.1 East and West of the Christian Eecumenes}{297}{section*.6}
-\contentsline {subsection}{1.2 Post-Byzantine Orthodoxy}{300}{section*.6}
-\contentsline {subsection}{1.3 The Petersburg period}{303}{section*.6}
-\contentsline {subsection}{1.4 National liberation of the Orthodox peoples}{305}{section*.6}
-\contentsline {subsection}{1.5 Megale Idea}{306}{section*.6}
-\contentsline {subsection}{1.6 The Outline}{307}{section*.6}
-\contentsline {subsection}{1.7 The Great Romania}{308}{section*.6}
-\contentsline {subsection}{1.8 Great Bulgaria}{309}{section*.6}
-\contentsline {subsection}{1.9 Orthodox Albania}{309}{section*.6}
-\contentsline {subsection}{1.10 Geopolitical lobbies in Orthodox countries}{310}{section*.6}
-\contentsline {subsection}{1.11 The Russian Orthodox Church and the Soviets}{311}{section*.6}
-\contentsline {subsection}{1.12 Summary}{313}{section*.6}
-\contentsline {section}{STATE AND TERRITORY}{314}{section*.6}
-\contentsline {subsection}{2.1 The three most important geopolitical categories}{314}{section*.6}
-\contentsline {subsection}{2.2 Right-wing and left-wing regionalism}{315}{section*.6}
-\contentsline {subsection}{2.3 The New Great Space: Mondialism or Empire?}{317}{section*.6}
-\contentsline {subsection}{2.4 Russia's geopolitics}{318}{table.1}
-\contentsline {section}{THE GEOPOLITICAL PROBLEMS OF THE NEAR ABROAD}{321}{table.2}
-\contentsline {subsection}{3.1 The laws of Big Space}{321}{table.2}
-\contentsline {subsection}{3.2 Pax Americana and the Geopolitics of Mondialism}{322}{table.2}
-\contentsline {subsection}{3.3 Russia's paradox}{323}{table.2}
-\contentsline {subsection}{3.4 Russia remains the "Axis of History}{324}{table.2}
-\contentsline {subsection}{3.5 Mitteleuropa and the European Empire}{324}{table.2}
-\contentsline {subsection}{3.6 Germany the heart of Europe}{325}{table.2}
-\contentsline {subsection}{3.7 "Join Europe"}{326}{table.2}
-\contentsline {subsection}{3.8 Frontiers of "freedom" and lost benefits}{327}{table.2}
-\contentsline {subsection}{3.9 "Sanitary cordon"}{328}{table.2}
-\contentsline {subsection}{3.10 Turning from a province to a colony}{329}{table.2}
-\contentsline {subsection}{3.11 Asia faces a choice}{330}{table.2}
-\contentsline {subsection}{3.12 Continental perspectives of the "Islamic Revolution}{331}{table.2}
-\contentsline {subsection}{3.13 The "pan-Turkism" trap}{332}{table.2}
-\contentsline {subsection}{3.14 Petro-dollars and Mondialism}{333}{table.2}
-\contentsline {subsection}{3.15 At least two poles or ... death}{335}{table.2}
-\contentsline {section}{PROSPECTS FOR A CIVIL WAR}{336}{table.2}
-\contentsline {subsection}{4.1 National Interest and the Mondialist Lobby}{336}{table.2}
-\contentsline {subsection}{4.2 Options for the balance of power}{339}{table.2}
-\contentsline {subsection}{4.3 Results of the analysis}{345}{table.2}
-\contentsline {section}{GEOPOLITICS OF THE SOUTH SLAVES CONFLICT}{347}{table.2}
-\contentsline {subsection}{5.1 Symbolism in Yugoslavia}{347}{table.2}
-\contentsline {subsection}{5.2 The three European powers}{348}{table.2}
-\contentsline {subsection}{5.3 The Croatian truth}{350}{table.2}
-\contentsline {subsection}{5.4 Serbian Truth}{351}{table.2}
-\contentsline {subsection}{5.5 The Truth of the Yugoslav Muslims}{352}{table.2}
-\contentsline {subsection}{5.6 The truth of the Macedonians}{354}{table.2}
-\contentsline {subsection}{5.7 Priorities for the Yugoslav War}{355}{table.2}
-\contentsline {subsection}{5.8 Serbia is Russia}{357}{table.2}
-\contentsline {subsection}{6.1 Geopolitics is an "intermediate" science}{359}{table.2}
-\contentsline {subsection}{6.2 Land and sea}{359}{table.2}
-\contentsline {subsection}{6.3 Symbolism of the landscape}{361}{table.2}
-\contentsline {subsection}{6.4 East and West in sacred geography}{363}{table.2}
-\contentsline {subsection}{6.5 East and West in contemporary geopolitics}{364}{table.2}
-\contentsline {subsection}{6.6 Sacred North and Sacred South}{367}{table.2}
-\contentsline {subsection}{6.7 People of the North}{369}{table.2}
-\contentsline {subsection}{6.8 People of the South}{370}{table.2}
-\contentsline {subsection}{6.9 North and South in East and West}{371}{table.2}
-\contentsline {subsection}{6.10 From continents to metacontinents}{373}{table.2}
-\contentsline {subsection}{6.11 The illusion of the 'rich north'}{374}{table.2}
-\contentsline {subsection}{6.12 The Third World paradox}{376}{table.2}
-\contentsline {subsection}{6.13 The role of the Second World}{378}{table.2}
-\contentsline {subsection}{6.14 Northern Renaissance Project}{379}{table.2}
-\contentsline {part}{PART 7}{381}{section*.7}
-\contentsline {section}{TEXTS FROM THE CLASSICS OF GEOPOLITICS}{381}{section*.7}
+\contentsline {part}{PART 1 FOUNDING FATHERS OF GEOPOLITICS}{21}{section*.2}
+\contentsline {chapter}{Chapter 1}{23}{chapter*.3}
+\contentsline {section}{Friedrich Ratzel States as spatial organisms}{23}{chapter*.3}
+\contentsline {subsection}{1.2 States as living organisms}{24}{chapter*.3}
+\contentsline {subsection}{1.3. Raum political organisation of the soil}{25}{chapter*.3}
+\contentsline {subsection}{1.4 The law of expansion}{26}{chapter*.3}
+\contentsline {subsection}{1.5 Weltmacht and the sea}{27}{chapter*.3}
+\contentsline {chapter}{Chapter 2}{29}{chapter*.4}
+\contentsline {section}{Rudolf Schellen and Friedrich Naumann Middle Europe}{29}{chapter*.4}
+\contentsline {subsection}{2.1 The definition of new science}{29}{chapter*.4}
+\contentsline {subsection}{2.2 The state as a form of life and Germany's interests}{30}{chapter*.4}
+\contentsline {subsection}{2.3 Towards a Middle European concept}{31}{chapter*.4}
+\contentsline {chapter}{Chapter 3}{33}{chapter*.5}
+\contentsline {section}{Halford Mackinder "The geographical axis of history"}{33}{chapter*.5}
+\contentsline {subsection}{3.1 Scientist and politician}{33}{chapter*.5}
+\contentsline {subsection}{3.2 The geographical axis of history}{34}{chapter*.5}
+\contentsline {subsection}{3.3 Russia's key position}{36}{chapter*.5}
+\contentsline {subsection}{3.4 Three geopolitical periods}{39}{chapter*.5}
+\contentsline {chapter}{Chapter 4}{41}{chapter*.6}
+\contentsline {section}{Alfred Mahan "Sea Power"}{41}{chapter*.6}
+\contentsline {subsection}{4.1 Sea Power}{41}{chapter*.6}
+\contentsline {subsection}{4.2 Maritime civilisation = commercial civilisation}{42}{chapter*.6}
+\contentsline {subsection}{4.3 Conquering the world USA}{43}{chapter*.6}
+\contentsline {chapter}{Chapter 5}{47}{chapter*.7}
+\contentsline {section}{Vidal de la Blanche "France versus Germany"}{47}{chapter*.7}
+\contentsline {subsection}{5.1 A picture of the geography of France}{47}{chapter*.7}
+\contentsline {subsection}{5.2 Possibilism}{48}{chapter*.7}
+\contentsline {subsection}{5.3 France for Sea Power}{49}{chapter*.7}
+\contentsline {chapter}{Chapter 6}{51}{chapter*.8}
+\contentsline {section}{Nicholas Speakman "The McInder revision, the centrality of rimland"}{51}{chapter*.8}
+\contentsline {subsection}{6.1 In the service of America }{51}{chapter*.8}
+\contentsline {subsection}{6.2 McInder correction}{52}{chapter*.8}
+\contentsline {subsection}{6.3 Power scales}{53}{chapter*.8}
+\contentsline {subsection}{6.4 Mid-Ocean}{54}{chapter*.8}
+\contentsline {subsection}{6.5 The Architect of American Victory}{55}{chapter*.8}
+\contentsline {chapter}{Chapter 7}{57}{chapter*.9}
+\contentsline {section}{Karl Haushofer Continental Bloc}{57}{chapter*.9}
+\contentsline {subsection}{7.1 War and thought}{57}{chapter*.9}
+\contentsline {subsection}{7.2 The New Eurasian Order}{58}{chapter*.9}
+\contentsline {subsection}{7.3 Compromise with Thalassocracy}{60}{chapter*.9}
+\contentsline {chapter}{Chapter 8}{63}{chapter*.10}
+\contentsline {section}{Karl Schmitt "Hippo versus Leviathan"}{63}{chapter*.10}
+\contentsline {subsection}{8.1 Conservative revolutionary}{63}{chapter*.10}
+\contentsline {subsection}{8.2 Nomos of the earth}{65}{chapter*.10}
+\contentsline {subsection}{8.3 Land and Sea}{66}{chapter*.10}
+\contentsline {subsection}{8.4 Grossraum}{67}{chapter*.10}
+\contentsline {subsection}{8.5 Total war and the figure of the "guerrilla"}{68}{chapter*.10}
+\contentsline {chapter}{Chapter 9}{71}{chapter*.11}
+\contentsline {section}{Pyotr Savitsky "Eurasia the Middle Earth"}{71}{chapter*.11}
+\contentsline {subsection}{9.1 The fate of the Eurasian}{71}{chapter*.11}
+\contentsline {subsection}{9.2 Russia-Eurasia}{72}{chapter*.11}
+\contentsline {subsection}{9.3 Turan}{73}{chapter*.11}
+\contentsline {subsection}{9.4 Place-based development}{74}{chapter*.11}
+\contentsline {subsection}{9.5 Ideocracy}{76}{chapter*.11}
+\contentsline {subsection}{9.6 The USSR and Eurasianism}{77}{chapter*.11}
+\contentsline {chapter}{Chapter 10}{81}{chapter*.12}
+\contentsline {section}{Geopolitics as an instrument of national policy}{81}{chapter*.12}
+\contentsline {subsection}{10.1 Planetary dualism basic law of geopolitics}{81}{chapter*.12}
+\contentsline {subsection}{10.2 A geopolitician cannot help but be engaged}{82}{chapter*.12}
+\contentsline {subsection}{10.3 The fate of scholars The fate of powers}{84}{chapter*.12}
+\contentsline {part}{PART 2 Modern geopolitical theories and schools}{87}{section*.13}
+\contentsline {chapter}{Chapter 1}{91}{chapter*.14}
+\contentsline {section}{Overview}{91}{chapter*.14}
+\contentsline {chapter}{Chapter 2}{95}{chapter*.15}
+\contentsline {section}{Modern Atlanticism}{95}{chapter*.15}
+\contentsline {subsection}{2.1 Spickman followers D.W. Maynig, W. Kirk, S.B. Cohen, C. Gray, G. Kissinger}{95}{chapter*.15}
+\contentsline {subsection}{2.2 The Atlantists won the Cold War}{97}{chapter*.15}
+\contentsline {subsection}{2.3 Aerocracy and etherocracy}{100}{chapter*.15}
+\contentsline {subsection}{2.4 Two versions of recent Atlanticism}{103}{chapter*.15}
+\contentsline {subsection}{2.5 The Clash of Civilisations: Huntington's Neo-Atlantism}{104}{chapter*.15}
+\contentsline {chapter}{Chapter 3}{109}{chapter*.16}
+\contentsline {section}{Mondialism}{109}{chapter*.16}
+\contentsline {subsection}{3.1 Prehistory of Mondialism}{109}{chapter*.16}
+\contentsline {subsection}{3.3 A planetary victory for the West}{113}{chapter*.16}
+\contentsline {subsection}{3.4 Francis Fukuyama's The End of History}{114}{chapter*.16}
+\contentsline {subsection}{3.5 Jacques Attali's Geoeconomics}{115}{chapter*.16}
+\contentsline {subsection}{3.6 Professor Santoro's post-catastrophic mondialism}{117}{chapter*.16}
+\contentsline {chapter}{Chapter 4}{119}{chapter*.17}
+\contentsline {section}{Applied geopolitics}{119}{chapter*.17}
+\contentsline {subsection}{4.1 "Domestic geopolitics" by the Yves Lacoste school}{119}{chapter*.17}
+\contentsline {subsection}{4.2 Electoral "geopolitics"}{120}{chapter*.17}
+\contentsline {subsection}{4.3 Mediaocracy as a ``geopolitical'' factor}{121}{chapter*.17}
+\contentsline {subsection}{4.4 History of geopolitics}{122}{chapter*.17}
+\contentsline {subsection}{4.5 "Applied geopolitics" not geopolitics}{122}{chapter*.17}
+\contentsline {chapter}{Chapter 5}{125}{chapter*.18}
+\contentsline {section}{The geopolitics of the European New Right}{125}{chapter*.18}
+\contentsline {subsection}{5.1 Europe of the hundred flags Alain de Benoit}{125}{chapter*.18}
+\contentsline {subsection}{5.2 Europe from Vladivostok to Dublin Jean Thiriar}{128}{chapter*.18}
+\contentsline {subsection}{5.3 Thinking Continents by Jordis von Lohausen}{129}{chapter*.18}
+\contentsline {subsection}{5.4 The Eurasian Empire of the End by Jean Parvulesco}{132}{chapter*.18}
+\contentsline {subsection}{5.5 The Indian Ocean as a route to world domination}{133}{chapter*.18}
+\contentsline {subsection}{5.6 Russia + Islam = Salvation of Europe by Carlo Terracciano}{135}{chapter*.18}
+\contentsline {chapter}{Chapter 6}{137}{chapter*.19}
+\contentsline {section}{Neo-Eurasianism}{137}{chapter*.19}
+\contentsline {subsection}{6.1 Eurasian passionarity Lev Gumilev}{137}{chapter*.19}
+\contentsline {subsection}{6.2 The New Russian Eurasians}{140}{chapter*.19}
+\contentsline {subsection}{6.3 Towards a new bipolarity}{143}{chapter*.19}
+\contentsline {part}{PART 3 RUSSIA AND SPACE}{147}{section*.20}
+\contentsline {chapter}{Chapter 1}{149}{chapter*.21}
+\contentsline {section}{Heartland}{149}{chapter*.21}
+\contentsline {chapter}{Chapter 2}{151}{chapter*.22}
+\contentsline {section}{The Rimland problem}{151}{chapter*.22}
+\contentsline {chapter}{Chapter 3}{155}{chapter*.23}
+\contentsline {section}{Gathering the Empire}{155}{chapter*.23}
+\contentsline {chapter}{Chapter 4}{159}{chapter*.24}
+\contentsline {section}{Warm and cold seas}{159}{chapter*.24}
+\contentsline {part}{PART IV RUSSIA'S GEOPOLITICAL FUTURE}{161}{section*.25}
+\contentsline {chapter}{Chapter 1}{163}{chapter*.26}
+\contentsline {section}{The need for a radical alternative}{163}{chapter*.26}
+\contentsline {chapter}{Chapter 2}{167}{chapter*.27}
+\contentsline {section}{What is the "Russian national interest"?}{167}{chapter*.27}
+\contentsline {subsection}{2.1 The Russians have no State today}{167}{chapter*.27}
+\contentsline {subsection}{2.2 The concept of "post-imperial legitimacy}{169}{chapter*.27}
+\contentsline {subsection}{2.3 Russian people at the centre of the geopolitical concept}{173}{chapter*.27}
+\contentsline {chapter}{Chapter 3}{179}{chapter*.28}
+\contentsline {section}{Russia is unthinkable without Empire}{179}{chapter*.28}
+\contentsline {subsection}{3.1 The Russians' lack of a "nation-state}{179}{chapter*.28}
+\contentsline {subsection}{3.2 The Russian people of the Empire}{182}{chapter*.28}
+\contentsline {subsection}{3.3 The "regional power" trap}{184}{chapter*.28}
+\contentsline {subsection}{3.4 Critique of Soviet statehood}{187}{chapter*.28}
+\contentsline {subsection}{3.5 Criticism of Tsarist statehood}{192}{chapter*.28}
+\contentsline {subsection}{3.6 Towards a new Eurasian Empire}{197}{chapter*.28}
+\contentsline {chapter}{Chapter 4}{201}{chapter*.29}
+\contentsline {section}{Redivision of the world}{201}{chapter*.29}
+\contentsline {subsection}{4.1 Land and Sea. A common enemy}{201}{chapter*.29}
+\contentsline {subsection}{4.2 The Western Axis: Moscow Berlin. European Empire and Eurasia}{205}{chapter*.29}
+\contentsline {subsection}{4.3 The Moscow-Tokyo axis. The Pan-Asian Project. Towards a Eurasian Trilateral Commission}{212}{chapter*.29}
+\contentsline {subsection}{4.4 Axis Moscow Tehran. Central Asian Empire. Pan-Arab project}{221}{chapter*.29}
+\contentsline {subsection}{4.5 An empire of many empires}{228}{chapter*.29}
+\contentsline {chapter}{Chapter 5}{231}{chapter*.30}
+\contentsline {section}{Russia's fate in imperial Eurasia}{231}{chapter*.30}
+\contentsline {subsection}{5.1 Geopolitical magic for national purposes}{231}{chapter*.30}
+\contentsline {subsection}{5.2 Russian nationalism. Ethnic Demography and Empire}{235}{chapter*.30}
+\contentsline {subsection}{5.3 The Russian question after the coming victory}{240}{chapter*.30}
+\contentsline {chapter}{Chapter 6}{245}{chapter*.31}
+\contentsline {section}{Military aspects of the Empire}{245}{chapter*.31}
+\contentsline {section}{6.1 Prioritising nuclear and intercontinental capabilities}{245}{chapter*.31}
+\contentsline {subsection}{6.2 What kind of armed forces does a great Russia need?}{249}{chapter*.31}
+\contentsline {chapter}{Chapter 7}{255}{chapter*.32}
+\contentsline {section}{Technology and resources}{255}{chapter*.32}
+\contentsline {subsection}{7.1 Technology deficits}{255}{chapter*.32}
+\contentsline {subsection}{7.2 Russian resources}{258}{chapter*.32}
+\contentsline {chapter}{Chapter 8}{263}{chapter*.33}
+\contentsline {section}{Economic aspects of the New Empire}{263}{chapter*.33}
+\contentsline {subsection}{8.1 The economics of the 'third way'}{263}{chapter*.33}
+\contentsline {subsection}{8.2 Economic regionalism}{271}{chapter*.33}
+\contentsline {chapter}{Chapter 9 Conclusion}{275}{chapter*.34}
+\contentsline {part}{PART 5 RUSSIA'S INTERNAL GEOPOLITICS}{277}{section*.35}
+\contentsline {chapter}{Chapter 1}{279}{chapter*.36}
+\contentsline {section}{Subject and method}{279}{chapter*.36}
+\contentsline {subsection}{1.1 Russia's domestic geopolitics depends on its planetary function}{279}{chapter*.36}
+\contentsline {subsection}{1.2 Domestic geopolitics and military doctrine}{280}{chapter*.36}
+\contentsline {subsection}{1.3 Centre and periphery}{282}{chapter*.36}
+\contentsline {subsection}{1.4 Internal axes ('geopolitical rays')}{285}{chapter*.36}
+\contentsline {chapter}{Chapter 2}{289}{chapter*.37}
+\contentsline {section}{The road to the north}{289}{chapter*.37}
+\contentsline {subsection}{2.1 Analysis model}{289}{chapter*.37}
+\contentsline {subsection}{2.2 The geopolitical nature of the Russian Arctic}{290}{chapter*.37}
+\contentsline {subsection}{2.3 North + North}{292}{chapter*.37}
+\contentsline {subsection}{2.4 North + Centre}{295}{chapter*.37}
+\contentsline {subsection}{2.5 The Finnish question}{298}{chapter*.37}
+\contentsline {subsection}{2.6 North and Non-North}{300}{chapter*.37}
+\contentsline {subsection}{2.7 Summary}{306}{chapter*.37}
+\contentsline {chapter}{Chapter 3}{309}{chapter*.38}
+\contentsline {section}{Calling the East}{309}{chapter*.38}
+\contentsline {subsection}{3.1 "Inner East" (scope of the concept) }{309}{chapter*.38}
+\contentsline {subsection}{3.2 The "Russian Siberian" belt (structure)}{310}{chapter*.38}
+\contentsline {subsection}{3.3 The positional battle for Lenaland}{316}{chapter*.38}
+\contentsline {subsection}{3.4 The capital of Siberia}{319}{chapter*.38}
+\contentsline {chapter}{Chapter 4}{323}{chapter*.39}
+\contentsline {section}{THE NEW GEOPOLITICAL GOVERNMENT OF THE SOUTH}{323}{chapter*.39}
+\contentsline {subsection}{4.1 The "New Geopolitical Order" of the South}{323}{chapter*.39}
+\contentsline {subsection}{4.2 Boundary zones and mountains}{325}{chapter*.39}
+\contentsline {subsection}{4.3 The Balkans}{327}{chapter*.39}
+\contentsline {subsection}{4.4 The problem of a sovereign Ukraine}{329}{chapter*.39}
+\contentsline {subsection}{4.5 Between the Black Sea and the Caspian Sea}{330}{chapter*.39}
+\contentsline {subsection}{4.6 The New Geopolitical Order in Central Asia}{335}{chapter*.39}
+\contentsline {subsection}{4.7 The Fall of China}{339}{chapter*.39}
+\contentsline {subsection}{4.8 From the Balkans to Manchuria}{343}{chapter*.39}
+\contentsline {chapter}{Chapter 5}{345}{chapter*.40}
+\contentsline {section}{Threat of the West}{345}{chapter*.40}
+\contentsline {subsection}{5.1 Two Wests}{345}{chapter*.40}
+\contentsline {subsection}{5.2 Break down the 'sanitation cordon'}{349}{chapter*.40}
+\contentsline {subsection}{5.3 Baltic Federation}{351}{chapter*.40}
+\contentsline {subsection}{5.4 Catholic Slavs enter Central Europe}{354}{chapter*.40}
+\contentsline {subsection}{5.5 Unification of Belarus and Greater Russia}{355}{chapter*.40}
+\contentsline {subsection}{5.6 Geopolitical Decomposition of Ukraine}{357}{chapter*.40}
+\contentsline {subsection}{5.7 Romania and Moldova integration under which sign?}{361}{chapter*.40}
+\contentsline {subsection}{5.8 Prerequisite: soil, not blood}{363}{chapter*.40}
+\contentsline {part}{PART 6 EURASIAN ANALYSIS}{365}{section*.41}
+\contentsline {chapter}{Chapter 1}{367}{chapter*.42}
+\contentsline {section}{GEOPOLITICS OF GOVERNMENT}{367}{chapter*.42}
+\contentsline {subsection}{1.1 East and West of the Christian Eecumenes}{367}{chapter*.42}
+\contentsline {subsection}{1.2 Post-Byzantine Orthodoxy}{370}{chapter*.42}
+\contentsline {subsection}{1.3 The Petersburg period}{373}{chapter*.42}
+\contentsline {subsection}{1.4 National liberation of the Orthodox peoples}{375}{chapter*.42}
+\contentsline {subsection}{1.5 Megale Idea}{376}{chapter*.42}
+\contentsline {subsection}{1.6 The Outline}{377}{chapter*.42}
+\contentsline {subsection}{1.7 The Great Romania}{378}{chapter*.42}
+\contentsline {subsection}{1.8 Great Bulgaria}{379}{chapter*.42}
+\contentsline {subsection}{1.9 Orthodox Albania}{380}{chapter*.42}
+\contentsline {subsection}{1.10 Geopolitical lobbies in Orthodox countries}{381}{chapter*.42}
+\contentsline {subsection}{1.11 The Russian Orthodox Church and the Soviets}{382}{chapter*.42}
+\contentsline {subsection}{1.12 Summary}{384}{chapter*.42}
+\contentsline {chapter}{Chapter 2}{387}{chapter*.43}
+\contentsline {section}{STATE AND TERRITORY}{387}{chapter*.43}
+\contentsline {subsection}{2.1 The three most important geopolitical categories}{387}{chapter*.43}
+\contentsline {subsection}{2.2 Right-wing and left-wing regionalism}{388}{chapter*.43}
+\contentsline {subsection}{2.3 The New Great Space: Mondialism or Empire?}{390}{chapter*.43}
+\contentsline {subsection}{2.4 Russia's geopolitics}{392}{table.0.1}
+\contentsline {chapter}{Chapter 3}{395}{chapter*.44}
+\contentsline {section}{THE GEOPOLITICAL PROBLEMS OF THE NEAR ABROAD}{395}{chapter*.44}
+\contentsline {subsection}{3.1 The laws of Big Space}{395}{chapter*.44}
+\contentsline {subsection}{3.2 Pax Americana and the Geopolitics of Mondialism}{396}{chapter*.44}
+\contentsline {subsection}{3.3 Russia's paradox}{397}{chapter*.44}
+\contentsline {subsection}{3.4 Russia remains the "Axis of History}{398}{chapter*.44}
+\contentsline {subsection}{3.5 Mitteleuropa and the European Empire}{398}{chapter*.44}
+\contentsline {subsection}{3.6 Germany the heart of Europe}{399}{chapter*.44}
+\contentsline {subsection}{3.7 "Join Europe"}{400}{chapter*.44}
+\contentsline {subsection}{3.8 Frontiers of "freedom" and lost benefits}{401}{chapter*.44}
+\contentsline {subsection}{3.9 "Sanitary cordon"}{402}{chapter*.44}
+\contentsline {subsection}{3.10 Turning from a province to a colony}{403}{chapter*.44}
+\contentsline {subsection}{3.11 Asia faces a choice}{405}{chapter*.44}
+\contentsline {subsection}{3.12 Continental perspectives of the "Islamic Revolution}{406}{chapter*.44}
+\contentsline {subsection}{3.13 The "pan-Turkism" trap}{407}{chapter*.44}
+\contentsline {subsection}{3.14 Petro-dollars and Mondialism}{408}{chapter*.44}
+\contentsline {subsection}{3.15 At least two poles or ... death}{409}{chapter*.44}
+\contentsline {chapter}{Chapter 4}{413}{chapter*.45}
+\contentsline {section}{PROSPECTS FOR A CIVIL WAR}{413}{chapter*.45}
+\contentsline {subsection}{4.1 National Interest and the Mondialist Lobby}{413}{chapter*.45}
+\contentsline {subsection}{4.2 Options for the balance of power}{416}{chapter*.45}
+\contentsline {subsection}{4.3 Results of the analysis}{422}{chapter*.45}
+\contentsline {chapter}{Chapter 5}{427}{chapter*.46}
+\contentsline {section}{GEOPOLITICS OF THE SOUTH SLAVES CONFLICT}{427}{chapter*.46}
+\contentsline {subsection}{5.1 Symbolism in Yugoslavia}{427}{chapter*.46}
+\contentsline {subsection}{5.2 The three European powers}{428}{chapter*.46}
+\contentsline {subsection}{5.3 The Croatian truth}{429}{chapter*.46}
+\contentsline {subsection}{5.4 Serbian Truth}{431}{chapter*.46}
+\contentsline {subsection}{5.5 The Truth of the Yugoslav Muslims}{432}{chapter*.46}
+\contentsline {subsection}{5.6 The truth of the Macedonians}{434}{chapter*.46}
+\contentsline {subsection}{5.7 Priorities for the Yugoslav War}{435}{chapter*.46}
+\contentsline {subsection}{5.8 Serbia is Russia}{438}{chapter*.46}
+\contentsline {subsection}{6.1 Geopolitics is an "intermediate" science}{439}{chapter*.46}
+\contentsline {subsection}{6.2 Land and sea}{440}{chapter*.46}
+\contentsline {subsection}{6.3 Symbolism of the landscape}{442}{chapter*.46}
+\contentsline {subsection}{6.4 East and West in sacred geography}{444}{chapter*.46}
+\contentsline {subsection}{6.5 East and West in contemporary geopolitics}{445}{chapter*.46}
+\contentsline {subsection}{6.6 Sacred North and Sacred South}{448}{chapter*.46}
+\contentsline {subsection}{6.7 People of the North}{451}{chapter*.46}
+\contentsline {subsection}{6.8 People of the South}{452}{chapter*.46}
+\contentsline {subsection}{6.9 North and South in East and West}{453}{chapter*.46}
+\contentsline {subsection}{6.10 From continents to metacontinents}{454}{chapter*.46}
+\contentsline {subsection}{6.11 The illusion of the 'rich north'}{456}{chapter*.46}
+\contentsline {subsection}{6.12 The Third World paradox}{458}{chapter*.46}
+\contentsline {subsection}{6.13 The role of the Second World}{460}{chapter*.46}
+\contentsline {subsection}{6.14 Northern Renaissance Project}{462}{chapter*.46}
+\contentsline {part}{PART 7}{465}{section*.47}
+\contentsline {section}{TEXTS FROM THE CLASSICS OF GEOPOLITICS}{467}{section*.47}

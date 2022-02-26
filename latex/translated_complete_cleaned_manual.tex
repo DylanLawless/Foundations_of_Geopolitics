@@ -2,8 +2,12 @@
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
 %
-\documentclass[
-]{article}
+%\documentclass[]{article}
+\documentclass[a4paper,11pt]{book}
+% Comment the following to have chapters numbered without interruption (numbering through parts)
+\makeatletter\@addtoreset{chapter}{part}\makeatother%
+
+
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
 \usepackage{iftex}
@@ -83,18 +87,33 @@
 }
 % Deactive with: \catcode`\"=12\relax % changes `"` back to normal
 
-\pagestyle{empty} % Suppress page numbering
+% \pagestyle{empty} % Suppress page numbering
 
 
 %\ThisCenterWallPaper{1.12}{littlered.jpg} % Add the background image, the first argument is the scaling - adjust this as necessary so the image fits the entire page
 
-\usepackage{titlesec}
+\usepackage{titlesec, color}
+
+%\titleformat{\chapter}[display]
+%  {\normalfont\bfseries\filcenter}{\LARGE\thechapter}{2ex}
+%  {\titlerule[2pt]\vspace{2ex}}[\vspace{1ex}{\titlerule[2pt]}]
+%\titleformat{name=\chapter,numberless}[display]
+%  {\normalfont\LARGE\bfseries\filcenter}{}{1ex}
+%  {\vspace{2ex}}[\vspace{1ex}]
+
+\titleformat{\section}
+{\color{red}\normalfont\Large\bfseries}
+{\color{red}\thesection}{2em}{}
+
+\titleformat{\chapter}
+{\color{black}\normalfont\Large\bfseries}
+{\color{black}\thechapter}{4em}{}
 
 \setlength{\parindent}{0em}
 \setlength{\parskip}{1em}
 \renewcommand{\baselinestretch}{1.3}
 
-\title{The Basis of Geopolitics}
+\title{Foundations of Geopolitics}
 \author{Alexander Dugin}
 
 \begin{document}
@@ -740,7 +759,7 @@ science.
 
 
 
-\part{PART I FOUNDING FATHERS OF GEOPOLITICS}
+\part{PART 1 FOUNDING FATHERS OF GEOPOLITICS}
 
 \chapter{Chapter 1}
 
@@ -2833,20 +2852,8 @@ turned into ruins.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-\part{Part II Modern geopolitical theories and schools}
+\clearpage
+\part{PART 2 Modern geopolitical theories and schools}
 
 (second half of the twentieth century)
 
@@ -4671,11 +4678,10 @@ opposition circles and formalized in the works of the authors of Den'
 and Elements, It is only in this context that the use of the word
 "Eurasianism" is justified by the continuity of the Russian geopolitical
 school and the correlation with the general fan of geopolitical projects
-on a planetary scale, existing outside Russia.\\
+on a planetary scale, existing outside Russia.
 
 
 \subsection{6.3 Towards a new bipolarity}
-
 
 Neo-Eurasianism, apart from its intellectual heritage and general
 principles of continental geopolitics, faces the latest challenges posed
@@ -4782,74 +4788,12 @@ market, liberal democracy, secular culture, individualist philosophy,
 etc. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-\part{3 RUSSIA AND SPACE}
+\clearpage
+\part{PART 3 RUSSIA AND SPACE}
 
 \chapter{Chapter 1}
+
 \section{Heartland}
-
-
 
 Russia, from a strategic point of view, represents a gigantic
 continental mass which is identified with Eurasia itself. Russia, after
@@ -4893,8 +4837,8 @@ case at the current stage of development of the technosphere).\\
 
 
 \chapter{Chapter 2}
-\section{The Rimland problem}
 
+\section{The Rimland problem}
 
 Russia's relation to the neighbouring continental Romano-Germanic
 civilisations in the West and the three traditional civilisations in the
@@ -4970,12 +4914,11 @@ rather than strategic terms. All this should be taken into account in
 order for Russia to develop a serious and sound geopolitical programme,
 realistic and forward-looking, with the main geopolitical imperative of
 independence, sovereignty, autonomy, autarky and freedom of a Great
-Russia at the top of the agenda.\\
+Russia at the top of the agenda.
 
 
 \chapter{Chapter 3}
 \section{Gathering the Empire}
-
 
 One of the main tenets of geopolitics is the claim that the geopolitical
 position of a state is much more important than the peculiarities of its
@@ -5081,8 +5024,7 @@ The reunification of the Eurasian territories under the patronage of
 Russia as the "Axis of History" today faces certain difficulties, but
 these are insignificant in the face of the disasters that will
 inevitably ensue if this "reunification of the Empire" does not begin
-immediately.\\
-
+immediately.
 
 \chapter{Chapter 4}
 \section{Warm and cold seas}
@@ -5140,10 +5082,8 @@ The threat of monialism and Atlanticist globalism theoretically opens up
 Russia's access to the warm seas through the self-evident alliance of
 Heartland and Rimland against the overseas invaders.
 
-
-
-
-\part{PART 4 RUSSIA'S GEOPOLITICAL FUTURE}
+\clearpage
+\part{PART IV RUSSIA'S GEOPOLITICAL FUTURE}
 
 \chapter{Chapter 1}
 \section{The need for a radical alternative}
@@ -8974,6 +8914,7 @@ heights of Russian Heaven.
 
 
 
+\clearpage
 \part{PART 5 RUSSIA'S INTERNAL GEOPOLITICS}
 
 \chapter{Chapter 1}
@@ -9392,7 +9333,8 @@ inhabited by "developed" peoples of Indo-European origin (young ethnic
 groups); while from Finland and Karelia up to Chukotka the Russian North
 is populated by ethnic groups which are much older and archaic than
 those of the European North (Ugric, archaic Turks and Paleo-Asians -
-Chukchi, Eskimos, etc.).д.). Moreover, as one moves eastward along the
+Chukchi, Eskimos, etc.).%д
+.). Moreover, as one moves eastward along the
 Arctic Ocean coast, the archaic nature of the ethnic groups increases.
 Younger Indo-Europeans (or Turks), moving dynamically in the most
 inhabited parts of Eurasia, were "shifting" autochthons to the north in
@@ -12090,6 +12032,7 @@ worst conflicts that rocked the twentieth century.
 
 
 
+\clearpage
 \part{PART 6 EURASIAN ANALYSIS}
 
 \chapter{Chapter 1}
@@ -15556,25 +15499,7 @@ project of the "rich North".
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+\clearpage
 \part{PART 7}
 \section{TEXTS FROM THE CLASSICS OF GEOPOLITICS}
 
@@ -27446,7 +27371,7 @@ like the Crimean War or 1914: this is an axiom of European politics."
 "The last hour of Anglo-Saxon politics will come when the Germans, the
 Russians and the Japanese unite. So said Homer Lee."
 
-1940 г.
+1940 c.%г.
 
 (translated by A. Karagodin)
 
@@ -29661,7 +29586,7 @@ the third millennium have been outlined. The rest depends on our will to
 survive, on the completeness of our awareness and mastery of the abysses
 of our own destiny.
 
-1998г. (translated from French by A.D.)
+1998c.%г. (translated from French by A.D.)
 
 Emrick SHOPRAD
 
@@ -29917,7 +29842,7 @@ the British and French from Africa after 1945.
 So Europeans have only themselves to blame for everything that has
 happened.
 
-1992 г.
+1992 c. %г.
 
 (translated by L. Gogoleva)
 

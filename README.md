@@ -1,4 +1,4 @@
-# The Basis of Geopolitics
+# Foundations of Geopolitics
 ## Alexander Dugin
 
 [Link to PDF](https://github.com/DylanLawless/The_Basis_of_Geopolitics/blob/master/latex/translated_complete_cleaned_manual.pdf)
