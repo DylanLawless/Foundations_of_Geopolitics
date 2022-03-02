@@ -3,34 +3,33 @@
 
 [Link to PDF](https://github.com/DylanLawless/The_Basis_of_Geopolitics/blob/master/latex/translated_complete_cleaned_manual.pdf)
 
-
 The books was translated because I am unable to find it in English online. 
 This is not meant to reflect any endorsement of the content. 
 I am interested in the historical and geopolitical relevance.
 I translated this to make a LaTeX and epub version for my Ebook reader. 
 
-# Personal interpretation of relevance to Russian strategy
-While this text is interesting (pejorative), it is unlikely to have any influence geopolitically.
+<!-- # Personal interpretation of relevance to Russian strategy -->
+<!-- While this text is interesting (pejorative), it is unlikely to have any influence geopolitically. -->
 
-The [interpretation](https://providencemag.com/2019/07/west-overestimates-aleksandr-dugins-influence-russia/) from George Barros,
-while focused on the US perspective, appears valid
-> "That said, just because Dugin prescribes certain strategies that are present in Russian policy does not mean that Dugin was the policy’s inspiration or catalyst. I would underscore that Russian intelligence services’ efforts to provoke social strife and chaos within the US has a long history that predates Dugin and that Kremlin policymakers simply ignore many of Dugin’s recommendations. Occam’s razor suggests that in Dugin’s case, a broken clock is still right twice day; Dugin at best sometimes describes Russian policy, but to assign Dugin causality is entirely speculative, especially when many of Dugin’s recommended policies have a precedent in the Kremlin’s policy toolbox."
+<!-- The [interpretation](https://providencemag.com/2019/07/west-overestimates-aleksandr-dugins-influence-russia/) from George Barros, -->
+<!-- while focused on the US perspective, appears valid -->
+<!-- > "That said, just because Dugin prescribes certain strategies that are present in Russian policy does not mean that Dugin was the policy’s inspiration or catalyst. I would underscore that Russian intelligence services’ efforts to provoke social strife and chaos within the US has a long history that predates Dugin and that Kremlin policymakers simply ignore many of Dugin’s recommendations. Occam’s razor suggests that in Dugin’s case, a broken clock is still right twice day; Dugin at best sometimes describes Russian policy, but to assign Dugin causality is entirely speculative, especially when many of Dugin’s recommended policies have a precedent in the Kremlin’s policy toolbox." -->
 
-The text does wage the argument in favour of gathering historically joined lands; 
-the Eurasian union ideal of a politically and economically dominant leadership over neighbouring countries' policies. 
-However, the hyperbolic reasoning is not an explanation for 
-annexation of Crimea (2014) and escalating war in Ukraine up to large-scale war in 2022.
+<!-- The text does wage the argument in favour of gathering historically joined lands; --> 
+<!-- the Eurasian union ideal of a politically and economically dominant leadership over neighbouring countries' policies. --> 
+<!-- However, the hyperbolic reasoning is not an explanation for --> 
+<!-- annexation of Crimea (2014) and escalating war in Ukraine up to large-scale war in 2022. -->
 
-The simpler summary of the situation: 
-Crimea and Ukraine are both strategically and symbolically important lands joining Europe and Russia.
-(i) Russian leadership hoped to win public approval after unfulfilled promises of economic reform (~2009-2014) which failed,
-(ii) Patriotic mobilisation to control Ukraine under the promise of homeland defence and separatist liberation. However, anything short of total victory in Ukraine would devastating for the personal popularity of the Russian president.
-Now with ubiquitous European support towards Ukraine against Russian invasion, this strategy is in immediate danger. 
+<!-- The simpler summary of the situation: --> 
+<!-- Crimea and Ukraine are both strategically and symbolically important lands joining Europe and Russia. -->
+<!-- (i) Russian leadership hoped to win public approval after unfulfilled promises of economic reform (~2009-2014) which failed, -->
+<!-- (ii) Patriotic mobilisation to control Ukraine under the promise of homeland defence and separatist liberation. However, anything short of total victory in Ukraine would devastating for the personal popularity of the Russian president. -->
+<!-- Now with ubiquitous European support towards Ukraine against Russian invasion, this strategy is in immediate danger. --> 
 
-There seems to be three outcomes:
-(i) Russia seizes control to declare victory and rally popular support in Russia to defend against "European/Western aggression".
-(ii) End the war with some explanation as to why invasion was justified but is now no longer required, without admitting Ukraine independent sovereignty.
-(iii) Invasion fails and popular media in Russia labels the leadership decisions as unjustified.
+<!-- There seems to be three outcomes: -->
+<!-- (i) Russia seizes control to declare victory and rally popular support in Russia to defend against "European/Western aggression". -->
+<!-- (ii) End the war with some explanation as to why invasion was justified but is now no longer required, without admitting Ukraine independent sovereignty. -->
+<!-- (iii) Invasion fails and popular media in Russia labels the leadership decisions as unjustified. -->
 
 ## From Wikipedia
 [Wikipedia.org](https://en.wikipedia.org/wiki/Foundations_of_Geopolitics)
