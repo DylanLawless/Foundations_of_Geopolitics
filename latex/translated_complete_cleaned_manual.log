@@ -1,16 +1,49 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.7.19)  27 FEB 2022 23:07
-entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.7.27)  21 NOV 2022 15:42
+ restricted system commands enabled.
 **translated_complete_cleaned_manual.tex
 (./translated_complete_cleaned_manual.tex
 LaTeX2e <2018-04-01> patch level 2
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
+Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended co
+llection.(using write cache: /Users/lawless/Library/texlive/2018/texmf-var/luate
+x-cache/generic)(using read cache: /usr/local/texlive/2018/texmf-var/luatex-cach
+e/generic /Users/lawless/Library/texlive/2018/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is /Users/lawless/Library/texlive/2018/
+texmf-var/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse
+-resolved path “/usr/local/texlive/2018/texmf-dist/tex/luatex/luaotfload/fontl
+oader-2017-02-11.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.027”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is /Users/lawless/Library/texlive/2018/
+texmf-var/luatex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
+.
+luaotfload | main : initialization completed in 0.111 seconds
+Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/bk11.clo
 File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-)
+luaotfload | db : Font names database loaded from /Users/lawless/Library/texlive
+/2018/texmf-var/luatex-cache/generic/names/luaotfload-names.luc(load luc: /Users
+/lawless/Library/texlive/2018/texmf-var/luatex-cache/generic/fonts/otl/lmroman10
+-regular.luc))
 \c@part=\count80
 \c@chapter=\count81
 \c@section=\count82
@@ -23,11 +56,9 @@ File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-)
-(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip43
-
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
@@ -128,8 +159,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
-and LuaTeX
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, a
+nd LuaTeX
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/unicode-math/unicode-math.sty
 (/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -137,6 +168,7 @@ Package: expl3 2018/03/05 L3 programming layer (loader)
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2018/03/05 L3 programming layer (code)
+\ucharcat@table=\catcodetable5
 \c_max_int=\count101
 \l_tmpa_int=\count102
 \l_tmpb_int=\count103
@@ -177,62 +209,65 @@ Package: expl3 2018/03/05 L3 programming layer (code)
 \c__fp_Bigg_leading_shift_int=\count120
 \c__fp_Bigg_middle_shift_int=\count121
 \c__fp_Bigg_trailing_shift_int=\count122
-\l__sort_length_int=\count123
-\l__sort_min_int=\count124
-\l__sort_top_int=\count125
-\l__sort_max_int=\count126
-\l__sort_true_max_int=\count127
-\l__sort_block_int=\count128
-\l__sort_begin_int=\count129
-\l__sort_end_int=\count130
-\l__sort_A_int=\count131
-\l__sort_B_int=\count132
-\l__sort_C_int=\count133
-\l__tl_build_start_index_int=\count134
-\l__tl_build_index_int=\count135
-\l__tl_analysis_normal_int=\count136
-\l__tl_analysis_index_int=\count137
-\l__tl_analysis_nesting_int=\count138
-\l__tl_analysis_type_int=\count139
-\l__regex_internal_a_int=\count140
-\l__regex_internal_b_int=\count141
-\l__regex_internal_c_int=\count142
-\l__regex_balance_int=\count143
-\l__regex_group_level_int=\count144
-\l__regex_mode_int=\count145
-\c__regex_cs_in_class_mode_int=\count146
-\c__regex_cs_mode_int=\count147
-\l__regex_catcodes_int=\count148
-\l__regex_default_catcodes_int=\count149
-\c__regex_catcode_L_int=\count150
-\c__regex_catcode_O_int=\count151
-\c__regex_catcode_A_int=\count152
-\c__regex_all_catcodes_int=\count153
-\l__regex_show_lines_int=\count154
-\l__regex_min_state_int=\count155
-\l__regex_max_state_int=\count156
-\l__regex_left_state_int=\count157
-\l__regex_right_state_int=\count158
-\l__regex_capturing_group_int=\count159
-\l__regex_min_pos_int=\count160
-\l__regex_max_pos_int=\count161
-\l__regex_curr_pos_int=\count162
-\l__regex_start_pos_int=\count163
-\l__regex_success_pos_int=\count164
-\l__regex_curr_char_int=\count165
-\l__regex_curr_catcode_int=\count166
-\l__regex_last_char_int=\count167
-\l__regex_case_changed_char_int=\count168
-\l__regex_curr_state_int=\count169
-\l__regex_step_int=\count170
-\l__regex_min_active_int=\count171
-\l__regex_max_active_int=\count172
-\l__regex_replacement_csnames_int=\count173
-\l__regex_match_count_int=\count174
-\l__regex_min_submatch_int=\count175
-\l__regex_submatch_int=\count176
-\l__regex_zeroth_submatch_int=\count177
-\g__regex_trace_regex_int=\count178
+\c__fp_rand_size_int=\count123
+\c__fp_rand_four_int=\count124
+\c__fp_rand_eight_int=\count125
+\l__sort_length_int=\count126
+\l__sort_min_int=\count127
+\l__sort_top_int=\count128
+\l__sort_max_int=\count129
+\l__sort_true_max_int=\count130
+\l__sort_block_int=\count131
+\l__sort_begin_int=\count132
+\l__sort_end_int=\count133
+\l__sort_A_int=\count134
+\l__sort_B_int=\count135
+\l__sort_C_int=\count136
+\l__tl_build_start_index_int=\count137
+\l__tl_build_index_int=\count138
+\l__tl_analysis_normal_int=\count139
+\l__tl_analysis_index_int=\count140
+\l__tl_analysis_nesting_int=\count141
+\l__tl_analysis_type_int=\count142
+\l__regex_internal_a_int=\count143
+\l__regex_internal_b_int=\count144
+\l__regex_internal_c_int=\count145
+\l__regex_balance_int=\count146
+\l__regex_group_level_int=\count147
+\l__regex_mode_int=\count148
+\c__regex_cs_in_class_mode_int=\count149
+\c__regex_cs_mode_int=\count150
+\l__regex_catcodes_int=\count151
+\l__regex_default_catcodes_int=\count152
+\c__regex_catcode_L_int=\count153
+\c__regex_catcode_O_int=\count154
+\c__regex_catcode_A_int=\count155
+\c__regex_all_catcodes_int=\count156
+\l__regex_show_lines_int=\count157
+\l__regex_min_state_int=\count158
+\l__regex_max_state_int=\count159
+\l__regex_left_state_int=\count160
+\l__regex_right_state_int=\count161
+\l__regex_capturing_group_int=\count162
+\l__regex_min_pos_int=\count163
+\l__regex_max_pos_int=\count164
+\l__regex_curr_pos_int=\count165
+\l__regex_start_pos_int=\count166
+\l__regex_success_pos_int=\count167
+\l__regex_curr_char_int=\count168
+\l__regex_curr_catcode_int=\count169
+\l__regex_last_char_int=\count170
+\l__regex_case_changed_char_int=\count171
+\l__regex_curr_state_int=\count172
+\l__regex_step_int=\count173
+\l__regex_min_active_int=\count174
+\l__regex_max_active_int=\count175
+\l__regex_replacement_csnames_int=\count176
+\l__regex_match_count_int=\count177
+\l__regex_min_submatch_int=\count178
+\l__regex_submatch_int=\count179
+\l__regex_zeroth_submatch_int=\count180
+\g__regex_trace_regex_int=\count181
 \c_empty_box=\box28
 \l_tmpa_box=\box29
 \l_tmpb_box=\box30
@@ -274,40 +309,40 @@ Package: expl3 2018/03/05 L3 programming layer (code)
 \l__coffin_scaled_total_height_dim=\dimen141
 \l__coffin_scaled_width_dim=\dimen142
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
-File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count179
+(/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count182
 ))
 Package: unicode-math 2018/02/02 vv0.8l Unicode maths in XeLaTeX and LuaLaTeX
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.s
-ty
-Package: unicode-math-xetex 2018/02/02 vv0.8l Unicode maths in XeLaTeX and LuaL
+(/usr/local/texlive/2018/texmf-dist/tex/latex/unicode-math/unicode-math-luatex.
+sty
+Package: unicode-math-luatex 2018/02/02 vv0.8l Unicode maths in XeLaTeX and LuaL
 aTeX
  (/usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2018/02/21 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count180
-\g__xparse_grabber_int=\count181
-\l__xparse_m_args_int=\count182
-\l__xparse_mandatory_args_int=\count183
-\l__xparse_v_nesting_int=\count184
-)
-(/usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+\l__xparse_current_arg_int=\count183
+\g__xparse_grabber_int=\count184
+\l__xparse_m_args_int=\count185
+\l__xparse_mandatory_args_int=\count186
+\l__xparse_v_nesting_int=\count187
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.st
+y
 Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
+Lua module: fontspec 2017/11/09 2.6g Font selection for XeLaTeX and LuaLaTeX
+(/usr/local/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count185
-\l__fontspec_language_int=\count186
-\l__fontspec_strnum_int=\count187
-\l__fontspec_tmp_int=\count188
-\l__fontspec_em_int=\count189
-\l__fontspec_emdef_int=\count190
-\l__fontspec_strong_int=\count191
-\l__fontspec_strongdef_int=\count192
+\l__fontspec_script_int=\count188
+\l__fontspec_language_int=\count189
+\l__fontspec_strnum_int=\count190
+\l__fontspec_tmp_int=\count191
+\l__fontspec_em_int=\count192
+\l__fontspec_emdef_int=\count193
+\l__fontspec_strong_int=\count194
+\l__fontspec_strongdef_int=\count195
 \l__fontspec_tmpa_dim=\dimen143
 \l__fontspec_tmpb_dim=\dimen144
 \l__fontspec_tmpc_dim=\dimen145
@@ -323,191 +358,194 @@ LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \fontspec with sig. 'O{}mO{}' on line 542.
+. Defining command \fontspec with sig. 'O{}mO{}' on line 545.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmainfont with sig. 'O{}mO{}' on line 546.
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 549.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setsansfont with sig. 'O{}mO{}' on line 550.
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 553.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmonofont with sig. 'O{}mO{}' on line 554.
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 557.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathrm with sig. 'O{}mO{}' on line 558.
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 561.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 562.
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 565.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathsf with sig. 'O{}mO{}' on line 566.
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 569.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathtt with sig. 'O{}mO{}' on line 570.
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 573.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setromanfont with sig. 'O{}mO{}' on line 574.
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 577.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 578.
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 581.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontface with sig. 'mO{}mO{}' on line 582.
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 585.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 586.
+. Defining command \defaultfontfeatures with sig. 't+om' on line 589.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addfontfeatures with sig. 'm' on line 590.
+. Defining command \addfontfeatures with sig. 'm' on line 593.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addfontfeature with sig. 'm' on line 594.
+. Defining command \addfontfeature with sig. 'm' on line 597.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontfeature with sig. 'mm' on line 598.
+. Defining command \newfontfeature with sig. 'mm' on line 601.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newAATfeature with sig. 'mmmm' on line 602.
+. Defining command \newAATfeature with sig. 'mmmm' on line 605.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newopentypefeature with sig. 'mmm' on line 606.
+. Defining command \newopentypefeature with sig. 'mmm' on line 609.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newICUfeature with sig. 'mmm' on line 610.
+. Defining command \newICUfeature with sig. 'mmm' on line 613.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeature with sig. 'mm' on line 614.
+. Defining command \aliasfontfeature with sig. 'mm' on line 617.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 618.
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 621.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontscript with sig. 'mm' on line 622.
+. Defining command \newfontscript with sig. 'mm' on line 625.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \newfontlanguage with sig. 'mm' on line 626.
+. Defining command \newfontlanguage with sig. 'mm' on line 629.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 630.
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 633.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 634.
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 637.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3632.
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3366.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingAccent with sig. 'mm' on line 3638.
+. Defining command \EncodingAccent with sig. 'mm' on line 3372.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3644.
+. Defining command \EncodingSymbol with sig. 'mm' on line 3378.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3650.
+. Defining command \EncodingComposite with sig. 'mmm' on line 3384.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3656.
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3390.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3681.
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3415.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3687.
+. Defining command \UndeclareSymbol with sig. 'm' on line 3421.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareAccent with sig. 'm' on line 3693.
+. Defining command \UndeclareAccent with sig. 'm' on line 3427.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareCommand with sig. 'm' on line 3699.
+. Defining command \UndeclareCommand with sig. 'm' on line 3433.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3706.
+. Defining command \UndeclareComposite with sig. 'mm' on line 3440.
 .................................................
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 3891.
-LaTeX Info: Redefining \slshape on input line 3896.
-LaTeX Info: Redefining \scshape on input line 3901.
-LaTeX Info: Redefining \upshape on input line 3906.
-LaTeX Info: Redefining \em on input line 3936.
-LaTeX Info: Redefining \emph on input line 3961.
-LaTeX Info: Redefining \- on input line 4015.
+LaTeX Info: Redefining \itshape on input line 3625.
+LaTeX Info: Redefining \slshape on input line 3630.
+LaTeX Info: Redefining \scshape on input line 3635.
+LaTeX Info: Redefining \upshape on input line 3640.
+LaTeX Info: Redefining \em on input line 3670.
+LaTeX Info: Redefining \emph on input line 3695.
+(load luc: /Users/lawless/Library/texlive/2018/texmf-var/luatex-cache/generic/fo
+nts/otl/lmroman10-bold.luc)(load luc: /Users/lawless/Library/texlive/2018/texmf-
+var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc)
+LaTeX Info: Redefining \- on input line 3749.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \oldstylenums with sig. 'm' on line 4110.
+. Redefining command \oldstylenums with sig. 'm' on line 3844.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \liningnums with sig. 'm' on line 4114.
+. Defining command \liningnums with sig. 'm' on line 3848.
 .................................................
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/latex/filehook/filehook.sty
@@ -519,39 +557,65 @@ Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 ))
-\g__um_fam_int=\count193
-\g__um_fonts_used_int=\count194
-\l__um_primecount_int=\count195
+(/usr/local/texlive/2018/texmf-dist/tex/lualatex/lualatex-math/lualatex-math.st
+y
+Package: lualatex-math 2017/06/15 v1.7 Patches for mathematics typesetting with 
+LuaLaTeX
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+)
+Lua module: lualatex-math 2013/08/03 1.3 Patches for mathematics typesetting wit
+h LuaLaTeX
+.................................................
+. lualatex-math info: "patch-macro"
+. 
+. I'm going to patch macro \subarray.
+.................................................
+.................................................
+. lualatex-math info: "patch-macro"
+. 
+. I'm going to patch macro \frac .
+.................................................
+.................................................
+. lualatex-math info: "patch-macro"
+. 
+. I'm going to patch macro \genfrac .
+.................................................
+)
+\g__um_fam_int=\count197
+\g__um_fonts_used_int=\count198
+\l__um_primecount_int=\count199
 \g__um_primekern_muskip=\muskip17
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \unimathsetup with sig. 'm' on line 269.
+. Defining command \unimathsetup with sig. 'm' on line 277.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathfont with sig. 'O{}mO{}' on line 273.
+. Defining command \setmathfont with sig. 'O{}mO{}' on line 281.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setmathfontface with sig. 'mO{}mO{}' on line 277.
+. Defining command \setmathfontface with sig. 'mO{}mO{}' on line 285.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \setoperatorfont with sig. 'm' on line 282.
+. Defining command \setoperatorfont with sig. 'm' on line 290.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \addnolimits with sig. 'm' on line 287.
+. Defining command \addnolimits with sig. 'm' on line 295.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \removenolimits with sig. 'm' on line 291.
+. Defining command \removenolimits with sig. 'm' on line 299.
 .................................................
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/unicode-math/unicode-math-table.t
@@ -559,7 +623,7 @@ ex)
 .................................................
 . unicode-math info: "patch-macro"
 . 
-. I'm going to patch macro \subarray.
+. I'm going to patch macro \plainroot@.
 .................................................
 .................................................
 . unicode-math info: "patch-macro"
@@ -569,21 +633,21 @@ ex)
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \not with sig. 'm' on line 3835.
+. Redefining command \not with sig. 'm' on line 3840.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \NewNegationCommand with sig. 'mm' on line 3839.
+. Defining command \NewNegationCommand with sig. 'mm' on line 3844.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \RenewNegationCommand with sig. 'mm' on line 3843.
+. Defining command \RenewNegationCommand with sig. 'mm' on line 3848.
 .................................................
 )) (/usr/local/texlive/2018/texmf-dist/tex/latex/upquote/upquote.sty
-Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
-tim
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbat
+im
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
@@ -629,7 +693,6 @@ Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
 Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
 Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
 Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
-
 Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
 Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
 Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
@@ -676,15 +739,18 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
 \MT@toks=\toks20
-\MT@count=\count196
+\MT@count=\count266
 LaTeX Info: Redefining \textls on input line 793.
 \MT@outer@kern=\dimen146
 LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
-\MT@listname@count=\count197
+\MT@listname@count=\count267
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype-xetex.def
-File: microtype-xetex.def 2018/01/14 v2.7a Definitions specific to xetex (RS)
-LaTeX Info: Redefining \lsstyle on input line 256.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype-luatex.def
+File: microtype-luatex.def 2018/01/14 v2.7a Definitions specific to luatex (RS)
+Lua module: microtype 2018/01/14 2.7a microtype module.
+LaTeX Info: Redefining \lsstyle on input line 679.
+LaTeX Info: Redefining \lslig on input line 679.
+\MT@outer@space=\skip52
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -700,12 +766,13 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Driver file: luatex.def on input line 225.
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -731,24 +798,23 @@ Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
-)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
+
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
+Package ifluatex Info: LuaTeX detected.
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode not found.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks21
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
@@ -763,7 +829,6 @@ Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
-
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
@@ -774,16 +839,15 @@ Package hobsub Info: Skipping package `ifvtex' (already loaded).
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: luatex-loader 2016/05/16 v0.6 Lua module loader (HO)
+
+(/usr/local/texlive/2018/texmf-dist/scripts/oberdiek/oberdiek.luatex.lua)
 Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
 Package hobsub Info: Skipping package `pdfescape' (already loaded).
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
-)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+
 Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
 Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
 )
@@ -792,7 +856,6 @@ Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
 Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
 Package: xcolor-patch 2016/05/16 xcolor patch
 Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
@@ -804,13 +867,13 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen147
-\Hy@linkcounter=\count198
-\Hy@pagecounter=\count199
+\Hy@linkcounter=\count268
+\Hy@pagecounter=\count269
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count266
+\Hy@SavedSpaceFactor=\count270
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -827,10 +890,10 @@ Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count267
+\c@Hy@tempcnt=\count271
 LaTeX Info: Redefining \url on input line 5115.
 \XeTeXLinkMargin=\dimen148
-\Fld@menulength=\count268
+\Fld@menulength=\count272
 \Field@Width=\dimen149
 \Fld@charsize=\dimen150
 Package hyperref Info: Hyper figures OFF on input line 6369.
@@ -842,53 +905,45 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count269
-\c@Item=\count270
-\c@Hfootnote=\count271
+\Hy@abspage=\count273
+\c@Item=\count274
+\c@Hfootnote=\count275
 )
-Package hyperref Info: Driver (autodetected): hxetex.
+Package hyperref Info: Driver (autodetected): hluatex.
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2018/02/06 v6.86b Hyperref driver for XeTeX
-
-(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/stringenc.sty
-Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
-)
-)
-\pdfm@box=\box43
-\c@Hy@AnnotLevel=\count272
-\HyField@AnnotCount=\count273
-\Fld@listcount=\count274
-\c@bookmark@seq@number=\count275
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2018/02/06 v6.86b Hyperref driver for luaTeX
+\Fld@listcount=\count276
+\c@bookmark@seq@number=\count277
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
+2.
 )
-\Hy@SectionHShift=\skip52
+\Hy@SectionHShift=\skip53
 )
-(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/bkm-dvipdfm.def
-File: bkm-dvipdfm.def 2016/05/17 v1.26 bookmark driver for dvipdfm (HO)
-\BKM@id=\count276
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/bkm-pdftex.def
+File: bkm-pdftex.def 2016/05/17 v1.26 bookmark driver for pdfTeX (HO)
+\BKM@id=\count278
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip53
-\LTright=\skip54
-\LTpre=\skip55
-\LTpost=\skip56
-\LTchunksize=\count277
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count279
 \LTcapwidth=\dimen151
-\LT@head=\box44
-\LT@firsthead=\box45
-\LT@foot=\box46
-\LT@lastfoot=\box47
-\LT@cols=\count278
-\LT@rows=\count279
-\c@LT@tables=\count280
-\c@LT@chunks=\count281
-\LT@p@ftn=\toks21
+\LT@head=\box43
+\LT@firsthead=\box44
+\LT@foot=\box45
+\LT@lastfoot=\box46
+\LT@cols=\count280
+\LT@rows=\count281
+\c@LT@tables=\count282
+\c@LT@chunks=\count283
+\LT@p@ftn=\toks22
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
@@ -902,67 +957,76 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \cmidrulesep=\dimen159
 \cmidrulekern=\dimen160
 \defaultaddspace=\dimen161
-\@cmidla=\count282
-\@cmidlb=\count283
+\@cmidla=\count284
+\@cmidlb=\count285
 \@aboverulesep=\dimen162
 \@belowrulesep=\dimen163
-\@thisruleclass=\count284
-\@lastruleclass=\count285
+\@thisruleclass=\count286
+\@lastruleclass=\count287
 \@thisrulewidth=\dimen164
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
 \col@sep=\dimen165
-\ar@mcellbox=\box48
+\ar@mcellbox=\box47
 \extrarowheight=\dimen166
-\NC@list=\toks22
-\extratabsurround=\skip57
-\backup@length=\skip58
-\ar@cellbox=\box49
+\NC@list=\toks23
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box48
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count286
-\calc@Bcount=\count287
+\calc@Acount=\count288
+\calc@Bcount=\count289
 \calc@Adimen=\dimen167
 \calc@Bdimen=\dimen168
-\calc@Askip=\skip59
-\calc@Bskip=\skip60
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count288
-\calc@Cskip=\skip61
-)
-(/usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count289
+\calc@Ccount=\count290
+\calc@Cskip=\skip62
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/footnotehyper/footnotehyper.sty
 Package: footnotehyper 2018/01/23 v1.1 hyperref aware footnote.sty (JFB)
-\FNH@notes=\box50
+\FNH@notes=\box49
 \FNH@width=\dimen169
 )
+(/usr/local/texlive/2018/texmf-dist/tex/lualatex/selnolig/selnolig.sty
+=== Package selnolig, Version 0.302, Date 2015/10/26 ===
+Package: selnolig 2015/10/26
+(/usr/local/texlive/2018/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+(/usr/local/texlive/2018/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count291
+)
+\CatcodeTableOther=\catcodetable6
+\CatcodeTableExpl=\catcodetable7
+)
+Inserting `Suppress ligatures selectively' at position 1 in `ligaturing'.)
 LaTeX Info: Redefining " on input line 81.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box51
-\beforetitleunit=\skip62
-\aftertitleunit=\skip63
+\ttl@box=\box50
+\beforetitleunit=\skip63
+\aftertitleunit=\skip64
 \ttl@plus=\dimen170
 \ttl@minus=\dimen171
-\ttl@toksa=\toks23
+\ttl@toksa=\toks24
 \titlewidth=\dimen172
 \titlewidthlast=\dimen173
 \titlewidthfirst=\dimen174
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/emptypage/emptypage.sty
-Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
-pages
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty p
+ages
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/titlepic/titlepic.sty
 Package: titlepic 2017/03/14 1.2 Package to display a picture on the title page
-
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -976,7 +1040,7 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 99.
+Package graphics Info: Driver file: luatex.def on input line 99.
 )
 \Gin@req@height=\dimen175
 \Gin@req@width=\dimen176
@@ -986,7 +1050,7 @@ LaTeX Warning: Unused global option(s):
     [titlepic].
 
 (./translated_complete_cleaned_manual.aux)
-\openout1 = `translated_complete_cleaned_manual.aux'.
+\openout1 = translated_complete_cleaned_manual.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
 LaTeX Font Info:    ... okay on input line 126.
@@ -1022,38 +1086,51 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 126.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 126.
+(load luc: /Users/lawless/Library/texlive/2018/texmf-var/luatex-cache/generic/fo
+nts/otl/latinmodern-math.luc)
 .................................................
 . fontspec info: "set-scale"
 . 
 . latinmodern-math scale = 1.
 .................................................
-\g__fontspec_family_latinmodern-math.otf_int=\count290
+\g__fontspec_family_latinmodern-math.otf_int=\count292
 .................................................
 . fontspec info: "set-scale"
 . 
 . latinmodern-math scale = 1.
 .................................................
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 26
 .................................................
 . fontspec info: "set-scale"
 . 
 . latinmodern-math scale = 1.
 .................................................
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 26
 .................................................
 . fontspec info: "defining-font"
 . 
 . Font family 'latinmodern-math.otf(0)' created for font
 . 'latinmodern-math.otf' with options
-. [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Script=Math,BoldFont={l
-atinmodern-math.otf}].
+. [Scale=MatchLowercase,Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Ma
+th,FontAdjustment={\__um_luatex_copy_fontdimens:
+. },BoldFont={latinmodern-math.otf}].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->s*[1]"[latinmodern-math.otf]/OT:script=math;language=DFLT;"
+. <->s*[1]"[latinmodern-math.otf]:mode=base;script=math;language=DFLT;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: 
 . - 'bold' (bx/n) with NFSS spec.:
-. <->s*[1]"[latinmodern-math.otf]/OT:script=math;language=DFLT;"
+. <->s*[1]"[latinmodern-math.otf]:mode=base;script=math;language=DFLT;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: 
 .................................................
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 126.
@@ -1067,6 +1144,9 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
 . 
 . latinmodern-math scale = 1.
 .................................................
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 26
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -1082,40 +1162,60 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
 . 
 . latinmodern-math scale = 1.
 .................................................
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 26
 .................................................
 . fontspec info: "defining-font"
 . 
 . Font family 'latinmodern-math.otf(1)' created for font
 . 'latinmodern-math.otf' with options
-. [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeature
-s={{Size=9.475-},{Size=7-9.475,Font=latinmodern-math.otf,Style=MathScript},{Siz
-e=-7,Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-m
-ath.otf}].
+. [Scale=MatchLowercase,Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Ma
+th,SizeFeatures={{Size=9.475-},{Size=7-9.475,Font=latinmodern-math.otf,Style=Mat
+hScript},{Size=-7,Font=latinmodern-math.otf,Style=MathScriptScript}},FontAdjustm
+ent={\__um_luatex_copy_fontdimens:
+. },BoldFont={latinmodern-math.otf}].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <9.475->s*[1]"[latinmodern-math.otf]/OT:script=math;language=DFLT;"<7-9.475>s
-*[1]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=0;"<-7>s*[1]"[la
-tinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=1;"
+. <9.475->s*[1]"[latinmodern-math.otf]:mode=base;script=math;language=DFLT;"<7-9
+.475>s*[1]"[latinmodern-math.otf]:mode=base;script=math;language=DFLT;+ssty=0;"<
+-7>s*[1]"[latinmodern-math.otf]:mode=base;script=math;language=DFLT;+ssty=1;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: 
 . - 'bold' (bx/n) with NFSS spec.:
-. <->s*[1]"[latinmodern-math.otf]/OT:script=math;language=DFLT;"
+. <->s*[1]"[latinmodern-math.otf]:mode=base;script=math;language=DFLT;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
+. and font adjustment code:
+. \__um_luatex_copy_fontdimens: 
 .................................................
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 126.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 126.
-
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 126.
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input 
+line 126.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `bold' on input line 126.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/bx/n on inp
-ut line 126.
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/bx/n on inpu
+t line 126.
+.................................................
+. fontspec info: "set-scale"
+. 
+. latinmodern-math scale = 1.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. latinmodern-math scale = 1.
+.................................................
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 26
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -1131,73 +1231,81 @@ ut line 126.
 . 
 . latinmodern-math scale = 1.
 .................................................
-.................................................
-. fontspec info: "set-scale"
-. 
-. latinmodern-math scale = 1.
-.................................................
-.................................................
-. fontspec info: "set-scale"
-. 
-. latinmodern-math scale = 1.
-.................................................
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 26
 .................................................
 . fontspec info: "defining-font"
 . 
 . Font family 'latinmodern-math.otf(2)' created for font
 . 'latinmodern-math.otf' with options
-. [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeature
-s={{Size=9.475-},{Size=7-9.475,Font=latinmodern-math.otf,Style=MathScript},{Siz
-e=-7,Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-m
-ath.otf},Scale=1.00001,FontAdjustment={\fontdimen
-. 8\font =7.41315pt\relax \fontdimen 9\font =4.3143pt\relax \fontdimen 10\font
-. =4.8618pt\relax \fontdimen 11\font =7.5117pt\relax \fontdimen 12\font
-. =3.77776pt\relax \fontdimen 13\font =3.97485pt\relax \fontdimen 14\font
-. =3.97485pt\relax \fontdimen 15\font =3.16455pt\relax \fontdimen 16\font
-. =2.70465pt\relax \fontdimen 17\font =2.70465pt\relax \fontdimen 18\font
-. =2.7375pt\relax \fontdimen 19\font =2.19pt\relax \fontdimen 22\font
-. =2.7375pt\relax \fontdimen 20\font =0pt\relax \fontdimen 21\font =0pt\relax
-. }].
+. [Scale=MatchLowercase,Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Ma
+th,SizeFeatures={{Size=9.475-},{Size=7-9.475,Font=latinmodern-math.otf,Style=Mat
+hScript},{Size=-7,Font=latinmodern-math.otf,Style=MathScriptScript}},FontAdjustm
+ent={\__um_luatex_copy_fontdimens:
+. },BoldFont={latinmodern-math.otf},Scale=1.00001,FontAdjustment={\fontdimen
+. 8\font =7.41315pt\relax \fontdimen 9\font =4.31429pt\relax \fontdimen
+. 10\font =4.86179pt\relax \fontdimen 11\font =7.51169pt\relax \fontdimen
+. 12\font =3.77774pt\relax \fontdimen 13\font =3.97484pt\relax \fontdimen
+. 14\font =3.97484pt\relax \fontdimen 15\font =3.16454pt\relax \fontdimen
+. 16\font =2.70464pt\relax \fontdimen 17\font =2.70464pt\relax \fontdimen
+. 18\font =2.73749pt\relax \fontdimen 19\font =2.18999pt\relax \fontdimen
+. 22\font =2.73749pt\relax \fontdimen 20\font =0pt\relax \fontdimen 21\font
+. =0pt\relax }].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <9.475->s*[1.00001]"[latinmodern-math.otf]/OT:script=math;language=DFLT;"<7-9
-.475>s*[1.00001]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=0;"<
--7>s*[1.00001]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=1;"
+. <9.475->s*[1.00001]"[latinmodern-math.otf]:mode=base;script=math;language=DFLT
+;"<7-9.475>s*[1.00001]"[latinmodern-math.otf]:mode=base;script=math;language=DFL
+T;+ssty=0;"<-7>s*[1.00001]"[latinmodern-math.otf]:mode=base;script=math;language
+=DFLT;+ssty=1;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . and font adjustment code:
-. \fontdimen 8\font =7.41315pt\relax \fontdimen 9\font =4.3143pt\relax
-. \fontdimen 10\font =4.8618pt\relax \fontdimen 11\font =7.5117pt\relax
-. \fontdimen 12\font =3.77776pt\relax \fontdimen 13\font =3.97485pt\relax
-. \fontdimen 14\font =3.97485pt\relax \fontdimen 15\font =3.16455pt\relax
-. \fontdimen 16\font =2.70465pt\relax \fontdimen 17\font =2.70465pt\relax
-. \fontdimen 18\font =2.7375pt\relax \fontdimen 19\font =2.19pt\relax
-. \fontdimen 22\font =2.7375pt\relax \fontdimen 20\font =0pt\relax \fontdimen
-. 21\font =0pt\relax 
+. \__um_luatex_copy_fontdimens: \fontdimen 8\font =7.41315pt\relax \fontdimen
+. 9\font =4.31429pt\relax \fontdimen 10\font =4.86179pt\relax \fontdimen
+. 11\font =7.51169pt\relax \fontdimen 12\font =3.77774pt\relax \fontdimen
+. 13\font =3.97484pt\relax \fontdimen 14\font =3.97484pt\relax \fontdimen
+. 15\font =3.16454pt\relax \fontdimen 16\font =2.70464pt\relax \fontdimen
+. 17\font =2.70464pt\relax \fontdimen 18\font =2.73749pt\relax \fontdimen
+. 19\font =2.18999pt\relax \fontdimen 22\font =2.73749pt\relax \fontdimen
+. 20\font =0pt\relax \fontdimen 21\font =0pt\relax 
 . - 'bold' (bx/n) with NFSS spec.:
-. <->s*[1.00001]"[latinmodern-math.otf]/OT:script=math;language=DFLT;"
+. <->s*[1.00001]"[latinmodern-math.otf]:mode=base;script=math;language=DFLT;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 . and font adjustment code:
-. \fontdimen 8\font =7.41315pt\relax \fontdimen 9\font =4.3143pt\relax
-. \fontdimen 10\font =4.8618pt\relax \fontdimen 11\font =7.5117pt\relax
-. \fontdimen 12\font =3.77776pt\relax \fontdimen 13\font =3.97485pt\relax
-. \fontdimen 14\font =3.97485pt\relax \fontdimen 15\font =3.16455pt\relax
-. \fontdimen 16\font =2.70465pt\relax \fontdimen 17\font =2.70465pt\relax
-. \fontdimen 18\font =2.7375pt\relax \fontdimen 19\font =2.19pt\relax
-. \fontdimen 22\font =2.7375pt\relax \fontdimen 20\font =0pt\relax \fontdimen
-. 21\font =0pt\relax 
+. \__um_luatex_copy_fontdimens: \fontdimen 8\font =7.41315pt\relax \fontdimen
+. 9\font =4.31429pt\relax \fontdimen 10\font =4.86179pt\relax \fontdimen
+. 11\font =7.51169pt\relax \fontdimen 12\font =3.77774pt\relax \fontdimen
+. 13\font =3.97484pt\relax \fontdimen 14\font =3.97484pt\relax \fontdimen
+. 15\font =3.16454pt\relax \fontdimen 16\font =2.70464pt\relax \fontdimen
+. 17\font =2.70464pt\relax \fontdimen 18\font =2.73749pt\relax \fontdimen
+. 19\font =2.18999pt\relax \fontdimen 22\font =2.73749pt\relax \fontdimen
+. 20\font =0pt\relax \fontdimen 21\font =0pt\relax 
 .................................................
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `normal' on input line 126.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 126.
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input
+ line 126.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `bold' on input line 126.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/bx/n on inp
-ut line 126.
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/bx/n on inpu
+t line 126.
+.................................................
+. fontspec info: "set-scale"
+. 
+. latinmodern-math scale = 1.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. latinmodern-math scale = 1.
+.................................................
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 26
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -1213,96 +1321,155 @@ ut line 126.
 . 
 . latinmodern-math scale = 1.
 .................................................
-.................................................
-. fontspec info: "set-scale"
-. 
-. latinmodern-math scale = 1.
-.................................................
-.................................................
-. fontspec info: "set-scale"
-. 
-. latinmodern-math scale = 1.
-.................................................
+luaotfload | aux : font no 26 (nil) does not define feature smcp for script math
+ with language dflt
+luaotfload | aux : no font with id 26
 .................................................
 . fontspec info: "defining-font"
 . 
 . Font family 'latinmodern-math.otf(3)' created for font
 . 'latinmodern-math.otf' with options
-. [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Script=Math,SizeFeature
-s={{Size=9.475-},{Size=7-9.475,Font=latinmodern-math.otf,Style=MathScript},{Siz
-e=-7,Font=latinmodern-math.otf,Style=MathScriptScript}},BoldFont={latinmodern-m
-ath.otf},Scale=0.99999,FontAdjustment={\fontdimen
-. 8\font =0.438pt\relax \fontdimen 9\font =2.19pt\relax \fontdimen 10\font
-. =1.82864pt\relax \fontdimen 11\font =1.21545pt\relax \fontdimen 12\font
-. =6.56999pt\relax \fontdimen 13\font =0pt\relax }].
+. [Scale=MatchLowercase,Renderer=Basic,BoldItalicFont={},ItalicFont={},Script=Ma
+th,SizeFeatures={{Size=9.475-},{Size=7-9.475,Font=latinmodern-math.otf,Style=Mat
+hScript},{Size=-7,Font=latinmodern-math.otf,Style=MathScriptScript}},FontAdjustm
+ent={\__um_luatex_copy_fontdimens:
+. },BoldFont={latinmodern-math.otf},Scale=0.99999,FontAdjustment={\fontdimen
+. 8\font =0.43799pt\relax \fontdimen 9\font =2.18999pt\relax \fontdimen
+. 10\font =1.82864pt\relax \fontdimen 11\font =1.21544pt\relax \fontdimen
+. 12\font =6.56999pt\relax \fontdimen 13\font =0pt\relax }].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <9.475->s*[0.99999]"[latinmodern-math.otf]/OT:script=math;language=DFLT;"<7-9
-.475>s*[0.99999]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=0;"<
--7>s*[0.99999]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=1;"
+. <9.475->s*[0.99999]"[latinmodern-math.otf]:mode=base;script=math;language=DFLT
+;"<7-9.475>s*[0.99999]"[latinmodern-math.otf]:mode=base;script=math;language=DFL
+T;+ssty=0;"<-7>s*[0.99999]"[latinmodern-math.otf]:mode=base;script=math;language
+=DFLT;+ssty=1;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . and font adjustment code:
-. \fontdimen 8\font =0.438pt\relax \fontdimen 9\font =2.19pt\relax \fontdimen
-. 10\font =1.82864pt\relax \fontdimen 11\font =1.21545pt\relax \fontdimen
-. 12\font =6.56999pt\relax \fontdimen 13\font =0pt\relax 
+. \__um_luatex_copy_fontdimens: \fontdimen 8\font =0.43799pt\relax \fontdimen
+. 9\font =2.18999pt\relax \fontdimen 10\font =1.82864pt\relax \fontdimen
+. 11\font =1.21544pt\relax \fontdimen 12\font =6.56999pt\relax \fontdimen
+. 13\font =0pt\relax 
 . - 'bold' (bx/n) with NFSS spec.:
-. <->s*[0.99999]"[latinmodern-math.otf]/OT:script=math;language=DFLT;"
+. <->s*[0.99999]"[latinmodern-math.otf]:mode=base;script=math;language=DFLT;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 . and font adjustment code:
-. \fontdimen 8\font =0.438pt\relax \fontdimen 9\font =2.19pt\relax \fontdimen
-. 10\font =1.82864pt\relax \fontdimen 11\font =1.21545pt\relax \fontdimen
-. 12\font =6.56999pt\relax \fontdimen 13\font =0pt\relax 
+. \__um_luatex_copy_fontdimens: \fontdimen 8\font =0.43799pt\relax \fontdimen
+. 9\font =2.18999pt\relax \fontdimen 10\font =1.82864pt\relax \fontdimen
+. 11\font =1.21544pt\relax \fontdimen 12\font =6.56999pt\relax \fontdimen
+. 13\font =0pt\relax 
 .................................................
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 1
-26.
+(Font)              `largesymbols' in the math version `normal' on input line 12
+6.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 126.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input
+ line 126.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 126
-.
+(Font)              `largesymbols' in the math version `bold' on input line 126.
+
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/bx/n on inp
-ut line 126.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/bx/n on inpu
+t line 126.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.67853pt on input line 126.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.4539pt on input line 126.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 126.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.95015pt on input line 126.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.67863pt on input line 126.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.45398pt on input line 126.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 10.94983pt on input line 126.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.6784pt on input line 126.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.45381pt on input line 126.
+LaTeX Font Info:    Try loading font information for U+msa on input line 126.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 126.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 LaTeX Info: Redefining \microtypecontext on input line 126.
+Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
-File: mt-LatinModernRoman.cfg 2013/03/13 v1.0 microtype config. file: Latin Mod
-ern Roman (RS)
+File: mt-LatinModernRoman.cfg 2013/03/13 v1.0 microtype config. file: Latin Mode
+rn Roman (RS)
+) (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count293
+\scratchdimen=\dimen177
+\scratchbox=\box51
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen178
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks26
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 43
+8.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG
+,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+
+))
 \AtBeginShipoutBox=\box52
 Package hyperref Info: Link coloring OFF on input line 126.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count291
+\c@section@level=\count299
 )
 LaTeX Info: Redefining \ref on input line 126.
 LaTeX Info: Redefining \pageref on input line 126.
 LaTeX Info: Redefining \nameref on input line 126.
+(load luc: /Users/lawless/Library/texlive/2018/texmf-var/luatex-cache/generic/fo
+nts/otl/lmroman17-regular.luc)(load luc: /Users/lawless/Library/texlive/2018/tex
+mf-var/luatex-cache/generic/fonts/otl/lmroman12-regular.luc)
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 128.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 128.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 6.0pt on input line 128.
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 128.
-
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 12.00018pt on input line 128.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -1315,46 +1482,28 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 7.99988pt on input line 128.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.99991pt on input line 128.
-LaTeX Font Info:    Try loading font information for U+msa on input line 128.
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 128.
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-File: cover.png Graphic file (type bmp)
-<cover.png>
+<cover.png, id=4, 963.1182pt x 407.121pt>
+File: cover.png Graphic file (type png)
+<use cover.png>
+Package luatex.def Info: cover.png  used on input line 128.
+(luatex.def)             Requested size: 360.0pt x 152.17923pt.
  [1
 
 
-]
-[2] [2] (./translated_complete_cleaned_manual.toc
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.67853pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.4539pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95015pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.67863pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.45398pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94983pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.6784pt on input line 3.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.45381pt on input line 3.
- [3
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./cover.p
+ng>]
+[2]
+warning  (pdf backend): ignoring duplicate destination with the name 'page.2'
+[2](load luc: /Users/lawless/Library/texlive/2018/texmf-var/luatex-cache/generic
+/fonts/otl/lmroman12-bold.luc) (./translated_complete_cleaned_manual.toc
+[3
 
 ] [4] [5]
 Underfull \vbox (badness 3333) has occurred while \output is active []
@@ -1366,8 +1515,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [9]
 [10] [11])
 \tf@toc=\write3
-\openout3 = `translated_complete_cleaned_manual.toc'.
 
+\openout3 = translated_complete_cleaned_manual.toc
  [12]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1411,9 +1560,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 495--497
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23]
 Underfull \hbox (badness 10000) in paragraph at lines 571--575
 
  []
@@ -1421,18 +1567,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 571--575
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [25]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [26]
 Underfull \hbox (badness 10000) in paragraph at lines 690--696
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
@@ -1451,6 +1600,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 813--814
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 831--832
+
+ []
+
 [34]
 Underfull \hbox (badness 10000) in paragraph at lines 872--875
 
@@ -1462,6 +1616,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 943--952
  []
 
 [37] [38]
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1027
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39
@@ -1488,12 +1647,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 [44]
-Underfull \hbox (badness 1442) in paragraph at lines 1231--1236
-[]\TU/lmr/m/n/10.95 History, according to Mackinder, revolves geographically ar
-ound the
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1231--1236
 
  []
@@ -1502,6 +1655,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 1231--1236
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [45]
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1257--1259
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1268--1274
 
  []
@@ -1530,15 +1693,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [51]
 [52]
-Underfull \vbox (badness 3657) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 1495--1502
 
- [53]
+ []
+
+[53]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [54]
 [55] [56
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 1592--1594
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1610--1614
 
  []
@@ -1625,18 +1795,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 2174--2181
 
  []
 
-[75]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [76]
 Underfull \hbox (badness 10000) in paragraph at lines 2230--2235
 
- []
-
-
-Underfull \hbox (badness 5050) in paragraph at lines 2240--2247
-\TU/lmr/m/n/10.95 Schmitt developed another important geopolitical theory, \TU/
-lmr/m/it/10.95 that of
  []
 
 [77]
@@ -1660,12 +1827,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 2443--2447
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 2460--2464
+
+ []
+
 [83]
+Underfull \hbox (badness 10000) in paragraph at lines 2473--2474
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 2490--2495
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 2500--2510
+
+ []
+
 [84]
+Underfull \hbox (badness 10000) in paragraph at lines 2516--2519
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [85]
@@ -1752,10 +1939,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3217--3221
 
  []
 
-
-Underfull \vbox (badness 3657) has occurred while \output is active []
-
- [108]
+[108]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [109]
@@ -1779,13 +1963,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [114]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [115]
 Underfull \hbox (badness 10000) in paragraph at lines 3509--3511
 
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [115]
 [116]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1820,10 +2005,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3743--3747
 
  []
 
-
-Underfull \vbox (badness 6708) has occurred while \output is active []
-
- [123]
+[123]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [124]
@@ -1872,12 +2054,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 4033--4043
 [131] [132
 
 ]
-Underfull \hbox (badness 1297) in paragraph at lines 4057--4065
-\TU/lmr/m/n/10.95 monarchists, Catholics, Germanophobes, chauvinists, anti-comm
-unists,
- []
-
-
 Underfull \vbox (badness 6741) has occurred while \output is active []
 
  [133]
@@ -1892,7 +2068,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 4132--4143
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [135]
-[136]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [136]
 Underfull \hbox (badness 10000) in paragraph at lines 4197--4201
 
  []
@@ -1901,6 +2079,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 4197--4201
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [138]
+Underfull \hbox (badness 1215) in paragraph at lines 4286--4294
+[]\TU/lmr/m/n/10.95 Lochhausen, like Thiriar, pre-dicted in ad-vance the geopo-
+lit-i-cal col-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 4286--4294
 
  []
@@ -1928,12 +2112,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [143]
-Underfull \hbox (badness 1215) in paragraph at lines 4455--4458
-[]\TU/lmr/m/n/10.95 Terracciano sees Europe as a bridgehead for a Russian-Islam
-ic anti-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 4459--4465
 
  []
@@ -1952,12 +2130,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [147]
 Underfull \hbox (badness 10000) in paragraph at lines 4579--4583
 
- []
-
-
-Underfull \hbox (badness 1082) in paragraph at lines 4597--4602
-[]\TU/lmr/m/n/10.95 The first (and most basic and developed) is a complete and 
-multi-
  []
 
 [148]
@@ -2100,7 +2272,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 5888--5893
 
  []
 
-[195]
+
+Underfull \vbox (badness 6708) has occurred while \output is active []
+
+ [195]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [196]
@@ -2135,7 +2310,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 6232--6246
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [204]
-[205]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [205]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [206]
@@ -2185,11 +2362,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 6783--6795
 
  []
 
-
+[220]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [220]
-[221]
+ [221]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [222]
@@ -2216,9 +2392,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 7084--7104
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [228]
-Underfull \vbox (badness 2158) has occurred while \output is active []
-
- [229]
+[229]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [230]
@@ -2234,13 +2408,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [234]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [235]
 Underfull \hbox (badness 10000) in paragraph at lines 7361--7368
 
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [235]
 [236]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2249,22 +2424,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 7461--7470
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [238]
-[239] [240
-
-]
+[238]
 Underfull \vbox (badness 6741) has occurred while \output is active []
 
+ [239
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [240]
+Underfull \hbox (badness 10000) in paragraph at lines 7541--7542
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [241]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [242]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [243]
 Underfull \hbox (badness 10000) in paragraph at lines 7614--7620
 
  []
@@ -2272,17 +2448,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 7614--7620
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [242]
+[243]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [244]
-[245]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [245]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [246]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [247]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [248]
 Underfull \hbox (badness 10000) in paragraph at lines 7796--7804
 
  []
@@ -2290,64 +2466,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 7796--7804
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [247]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [248]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [249]
-Underfull \vbox (badness 2376) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [250]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [251]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [252]
-[253] [254
+[251] [252
 
 ]
 Underfull \vbox (badness 4072) has occurred while \output is active []
+
+ [253]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [254]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [255]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [256]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [257]
+[257]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [258]
-[259]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [259]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [260]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [261]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [262]
-[263] [264
+[261] [262
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [263]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [264]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [265]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [266]
+[266]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [267]
-[268]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [269]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [270]
-[271] [272
+ [268]
+[269] [270
 
 ]
 Underfull \vbox (badness 6741) has occurred while \output is active []
+
+ [271]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [272]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [273]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2374,12 +2556,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [281]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [282]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [283]
 Underfull \hbox (badness 10000) in paragraph at lines 8886--8887
 
  []
@@ -2389,49 +2565,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 8888--8889
 
  []
 
+[282] [283
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [284]
-[285] [286
-
-] [287] [288
+] [284
 
 
-] [289] [290] [291
+] [285] [286] [287
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 8981--8985
 
  []
 
-[292]
+[288]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [293]
+ [289]
 Underfull \hbox (badness 10000) in paragraph at lines 9053--9054
 
  []
 
-[294]
+[290]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [295]
+ [291]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [296]
+ [292]
 Underfull \hbox (badness 10000) in paragraph at lines 9170--9176
 
  []
 
-[297]
+[293]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [298]
+ [294]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [299]
-[300]
+ [295]
+[296]
 Underfull \hbox (badness 10000) in paragraph at lines 9303--9311
 
  []
@@ -2439,10 +2611,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 9303--9311
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [301
+ [297
 
 ]
-[302]
+[298]
 Underfull \hbox (badness 10000) in paragraph at lines 9376--9388
 
  []
@@ -2450,30 +2622,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 9376--9388
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [303]
-[304]
+ [299]
+[300]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [305]
+ [301]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [306]
+ [302]
 Underfull \hbox (badness 10000) in paragraph at lines 9507--9512
 
  []
 
-[307]
+[303]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [308]
+ [304]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [309]
+ [305]
 Underfull \hbox (badness 10000) in paragraph at lines 9619--9628
 
  []
 
-[310]
+[306]
 Underfull \hbox (badness 10000) in paragraph at lines 9679--9683
 
  []
@@ -2481,63 +2653,61 @@ Underfull \hbox (badness 10000) in paragraph at lines 9679--9683
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [307]
+[308]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [309]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [310]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [311]
-Underfull \vbox (badness 6708) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [312]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [313]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [314]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [315]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [316]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [317]
 Underfull \hbox (badness 10000) in paragraph at lines 9916--9925
 
  []
 
-[318] [319] [320
+[314] [315] [316
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [321]
+ [317]
 Underfull \hbox (badness 10000) in paragraph at lines 10015--10017
 
  []
 
-[322]
+[318]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [319]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [320]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [321]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [322]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [323]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [324]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [325]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [326]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [327]
 Underfull \hbox (badness 10000) in paragraph at lines 10219--10222
 
  []
 
-[328]
+[324]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [329]
+ [325]
 Underfull \hbox (badness 10000) in paragraph at lines 10315--10316
 \TU/lmr/bx/n/10.95 cities of Blagoveshchensk-Komsomolsk-on-Amur-Khabarovsk
  []
@@ -2545,21 +2715,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 10315--10316
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [330]
+ [326]
 Underfull \hbox (badness 10000) in paragraph at lines 10338--10340
 
  []
 
-[331]
+
+Underfull \vbox (badness 3657) has occurred while \output is active []
+
+ [327]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [332]
-[333] [334
+ [328]
+[329] [330
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [335]
+ [331]
 Underfull \hbox (badness 10000) in paragraph at lines 10548--10550
 
  []
@@ -2567,13 +2740,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 10548--10550
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [336]
+ [332]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [337]
+ [333]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [338]
+ [334]
 Underfull \hbox (badness 10000) in paragraph at lines 10637--10642
 
  []
@@ -2581,35 +2754,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 10637--10642
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [339]
+ [335]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [340]
+ [336]
 Underfull \hbox (badness 10000) in paragraph at lines 10720--10729
 
  []
 
-[341]
+[337]
 Underfull \hbox (badness 10000) in paragraph at lines 10761--10772
 
  []
 
-[342]
+[338]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [343]
-Underfull \hbox (badness 1783) in paragraph at lines 10831--10840
-\TU/lmr/m/n/10.95 geopolitically “stretching” them directly between Rostov-on-D
-on and
- []
-
-
+ [339]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [344]
+ [340]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [345]
+ [341]
 Underfull \hbox (badness 10000) in paragraph at lines 10909--10928
 
  []
@@ -2617,10 +2784,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 10909--10928
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [346]
+ [342]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [347]
+ [343]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [344]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [345]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [346]
+Underfull \hbox (badness 10000) in paragraph at lines 11104--11108
+
+ []
+
+[347]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [348]
@@ -2630,59 +2811,41 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [350]
-Underfull \hbox (badness 10000) in paragraph at lines 11104--11108
-
- []
-
-[351]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [352]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [353]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [354]
 Underfull \hbox (badness 10000) in paragraph at lines 11245--11257
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [355]
-[356]
+[351] [352]
 Underfull \vbox (badness 6741) has occurred while \output is active []
 
- [357
+ [353
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [358]
+ [354]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [359]
+ [355]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [360]
+ [356]
 Underfull \hbox (badness 10000) in paragraph at lines 11434--11436
 
  []
 
-[361]
+[357]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [362]
+ [358]
 Underfull \hbox (badness 10000) in paragraph at lines 11507--11520
 
  []
 
-[363]
+[359]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [364]
+ [360]
 Underfull \hbox (badness 10000) in paragraph at lines 11598--11611
 
  []
@@ -2690,43 +2853,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 11598--11611
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [365]
+ [361]
 Underfull \hbox (badness 10000) in paragraph at lines 11645--11668
 
  []
 
-[366]
-Underfull \vbox (badness 2376) has occurred while \output is active []
 
- [367]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [368]
+ [362]
+Underfull \vbox (badness 2376) has occurred while \output is active []
+
+ [363]
 Underfull \hbox (badness 10000) in paragraph at lines 11722--11728
 
  []
 
 
-Underfull \vbox (badness 2376) has occurred while \output is active []
-
- [369]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [370]
+ [364]
+[365]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [371]
+ [366]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [372]
+ [367]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [368]
 Underfull \hbox (badness 10000) in paragraph at lines 11898--11903
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [373]
+[369]
 Underfull \hbox (badness 10000) in paragraph at lines 11922--11942
 
  []
@@ -2734,16 +2895,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 11922--11942
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [374]
-[375] [376] [377
+ [370]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [371]
+[372] [373
 
 
-] [378] [379
+] [374]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [375
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [380]
+ [376]
 Underfull \hbox (badness 10000) in paragraph at lines 12152--12165
 
  []
@@ -2751,55 +2918,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 12152--12165
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [381]
+ [377]
 Underfull \vbox (badness 2376) has occurred while \output is active []
 
- [382]
+ [378]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [383]
+ [379]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [384]
+ [380]
 Underfull \hbox (badness 10000) in paragraph at lines 12279--12288
 
  []
 
-[385]
+[381]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [386]
+ [382]
 Underfull \hbox (badness 10000) in paragraph at lines 12351--12361
 
  []
 
-[387]
+[383]
 Underfull \hbox (badness 10000) in paragraph at lines 12391--12394
 
  []
 
-[388]
+
 Underfull \hbox (badness 10000) in paragraph at lines 12415--12436
 
  []
 
-
+[384]
 Underfull \hbox (badness 10000) in paragraph at lines 12441--12469
 
  []
 
-
-Underfull \vbox (badness 2376) has occurred while \output is active []
-
- [389]
+[385]
 Underfull \hbox (badness 10000) in paragraph at lines 12474--12508
 
  []
 
-[390]
+[386]
 Underfull \vbox (badness 2376) has occurred while \output is active []
 
- [391]
+ [387]
 Underfull \hbox (badness 10000) in paragraph at lines 12529--12537
 
  []
@@ -2807,39 +2971,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 12529--12537
 
 Underfull \vbox (badness 2376) has occurred while \output is active []
 
- [392]
+ [388]
 Underfull \hbox (badness 10000) in paragraph at lines 12561--12570
 
  []
 
-[393]
+[389]
 Underfull \hbox (badness 10000) in paragraph at lines 12602--12614
 
  []
 
-[394]
+
+Underfull \vbox (badness 2376) has occurred while \output is active []
+
+ [390]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [395]
+ [391]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [396]
-[397] [398
+ [392]
+[393] [394
 
-] [399]
+] [395]
 Underfull \hbox (badness 10000) in paragraph at lines 12768--12775
 
  []
 
-[400]
+[396]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [401]
+ [397]
 Underfull \hbox (badness 10000) in paragraph at lines 12833--12839
 
  []
 
-[402]
+[398]
 Underfull \hbox (badness 10000) in paragraph at lines 12879--12881
 
  []
@@ -2849,20 +3016,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 12902--12907
 
  []
 
-[403]
+[399]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [404]
+ [400]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [405]
+ [401]
 Underfull \hbox (badness 10000) in paragraph at lines 13003--13007
 
  []
 
-[406]
+[402]
 Underfull \hbox (badness 2213) in paragraph at lines 13037--13037
-|\TU/lmr/bx/n/14.4 THE GEOPOLITICAL PROBLEMS OF THE
+|\TU/lmr/bx/n/14.4 THE GEOPO-LIT-I-CAL PROB-LEMS OF THE
  []
 
 
@@ -2873,7 +3040,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13056--13069
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [407
+ [403
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 13093--13115
@@ -2883,7 +3050,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13093--13115
 
 Underfull \vbox (badness 2376) has occurred while \output is active []
 
- [408]
+ [404]
 Underfull \hbox (badness 10000) in paragraph at lines 13133--13144
 
  []
@@ -2891,7 +3058,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13133--13144
 
 Underfull \vbox (badness 2376) has occurred while \output is active []
 
- [409]
+ [405]
 Underfull \hbox (badness 10000) in paragraph at lines 13149--13161
 
  []
@@ -2901,46 +3068,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 13166--13190
 
  []
 
-[410] [411]
+[406] [407]
 Underfull \hbox (badness 10000) in paragraph at lines 13222--13231
 
  []
 
-[412]
+[408]
 Underfull \hbox (badness 10000) in paragraph at lines 13260--13269
 
  []
 
-[413]
+[409]
 Underfull \hbox (badness 10000) in paragraph at lines 13287--13296
 
  []
 
-[414]
+[410]
 Underfull \vbox (badness 2376) has occurred while \output is active []
 
- [415]
+ [411]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [416]
+ [412]
 Underfull \hbox (badness 10000) in paragraph at lines 13401--13405
 
  []
 
-[417]
+
 Underfull \hbox (badness 10000) in paragraph at lines 13435--13437
 
  []
 
-
+[413]
 Underfull \hbox (badness 10000) in paragraph at lines 13463--13467
 
  []
 
 
-Underfull \vbox (badness 3657) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [418]
+ [414]
 Underfull \hbox (badness 10000) in paragraph at lines 13496--13516
 
  []
@@ -2948,10 +3115,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 13496--13516
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [419]
+ [415]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [420]
+ [416]
 Underfull \hbox (badness 10000) in paragraph at lines 13559--13572
 
  []
@@ -2959,19 +3126,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 13559--13572
 
 Underfull \vbox (badness 2376) has occurred while \output is active []
 
- [421]
+ [417]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [422]
-[423] [424
+ [418]
+[419] [420
 
 ]
 Underfull \vbox (badness 6741) has occurred while \output is active []
 
- [425]
+ [421]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [426]
+ [422]
 Underfull \hbox (badness 10000) in paragraph at lines 13733--13746
 
  []
@@ -2979,8 +3146,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 13733--13746
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [423]
+[424]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [425]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [426]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [427]
-[428]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [428]
+Underfull \hbox (badness 10000) in paragraph at lines 13965--13987
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [429]
@@ -2993,24 +3177,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [432]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [433]
-Underfull \hbox (badness 10000) in paragraph at lines 13965--13987
-
- []
-
-
-Underfull \vbox (badness 2376) has occurred while \output is active []
-
- [434]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [435]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [436]
-[437] [438
+[433] [434
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 14111--14119
@@ -3020,15 +3187,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 14111--14119
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [439]
+ [435]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [440]
+ [436]
 Underfull \hbox (badness 10000) in paragraph at lines 14185--14190
 
  []
 
-[441]
+[437]
 Underfull \hbox (badness 10000) in paragraph at lines 14232--14246
 
  []
@@ -3036,21 +3203,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 14232--14246
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [442]
+ [438]
 Underfull \vbox (badness 2376) has occurred while \output is active []
 
- [443]
+ [439]
 Underfull \hbox (badness 10000) in paragraph at lines 14294--14298
 
  []
 
-
-Underfull \hbox (badness 1005) in paragraph at lines 14303--14323
-\TU/lmr/m/n/10.95 geopolitical self-expression of this continental region and o
-ften faced,
- []
-
-[444]
+[440]
 Underfull \hbox (badness 10000) in paragraph at lines 14339--14352
 
  []
@@ -3058,16 +3219,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 14339--14352
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [445]
-[446]
+ [441]
 Underfull \hbox (badness 10000) in paragraph at lines 14385--14392
 
  []
 
-[447]
+[442] [443]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [448]
+ [444]
 Underfull \hbox (badness 10000) in paragraph at lines 14492--14498
 
  []
@@ -3075,16 +3235,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 14492--14498
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [449]
-Underfull \vbox (badness 2376) has occurred while \output is active []
+ [445]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [450]
-[451]
+ [446]
 Underfull \hbox (badness 10000) in paragraph at lines 14574--14588
 
  []
 
-[452]
+[447] [448]
 Underfull \hbox (badness 10000) in paragraph at lines 14648--14657
 
  []
@@ -3092,55 +3251,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 14648--14657
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [453]
-[454]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [455]
+ [449]
+[450]
 Underfull \hbox (badness 10000) in paragraph at lines 14730--14737
 
  []
 
 
-Underfull \vbox (badness 6708) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [456]
+ [451]
+[452]
 Underfull \hbox (badness 10000) in paragraph at lines 14799--14801
 
  []
 
-
+[453]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [457]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [458]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [459]
+ [454]
 Underfull \hbox (badness 10000) in paragraph at lines 14902--14917
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [455]
 Underfull \vbox (badness 2376) has occurred while \output is active []
 
- [460]
+ [456]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [461]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [462]
+ [457]
 Underfull \hbox (badness 10000) in paragraph at lines 15017--15026
 
  []
 
 
-Underfull \vbox (badness 2376) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [463]
+ [458]
 Underfull \hbox (badness 10000) in paragraph at lines 15047--15061
 
  []
@@ -3148,72 +3299,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 15047--15061
 
 Underfull \vbox (badness 2376) has occurred while \output is active []
 
- [464]
+ [459]
 Underfull \hbox (badness 10000) in paragraph at lines 15089--15104
 
  []
 
-
-Underfull \vbox (badness 2376) has occurred while \output is active []
-
- [465]
+[460] [461]
 Underfull \hbox (badness 10000) in paragraph at lines 15154--15162
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [466]
-[467]
+[462]
 Underfull \hbox (badness 10000) in paragraph at lines 15204--15213
 
  []
 
 
-Underfull \vbox (badness 2376) has occurred while \output is active []
-
- [468]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [469]
+ [463]
+[464]
 Underfull \hbox (badness 10000) in paragraph at lines 15275--15291
 
  []
 
 
-Underfull \vbox (badness 2376) has occurred while \output is active []
-
- [470]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [471]
+ [465]
+[466]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [467]
 Underfull \hbox (badness 10000) in paragraph at lines 15360--15365
 
  []
 
-
-Underfull \vbox (badness 2376) has occurred while \output is active []
-
- [472]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [473]
+[468]
 Underfull \hbox (badness 10000) in paragraph at lines 15418--15426
 
  []
 
 
-Underfull \vbox (badness 6708) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [474]
+ [469]
+[470]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [471]
+[472] [473
+
+
+] [474]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [475]
-[476] [477
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [476]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [478]
+ [477]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [478]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [479]
@@ -3304,6 +3454,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [508]
+Overfull \hbox (7.91188pt too wide) in paragraph at lines 16799--16800
+[]\TU/lmr/bx/n/10.95 2) Poli-cies based on per-sua-sion, dem-a-gogy, in short, 
+''democratism``, 
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [509]
@@ -3316,15 +3472,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [512]
-Overfull \hbox (7.91191pt too wide) in paragraph at lines 16799--16800
-[]\TU/lmr/bx/n/10.95 2) Policies based on persuasion, demagogy, in short, ”demo
-cratism“, 
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [513]
+Underfull \hbox (badness 10000) in paragraph at lines 17008--17025
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [514]
@@ -3334,14 +3489,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [516]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [517]
-Underfull \hbox (badness 10000) in paragraph at lines 17008--17025
+Underfull \hbox (badness 10000) in paragraph at lines 17128--17129
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [517]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [518]
@@ -3351,11 +3506,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [520]
-Underfull \hbox (badness 10000) in paragraph at lines 17128--17129
-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [521]
@@ -3368,9 +3518,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [524]
+Underfull \hbox (badness 10000) in paragraph at lines 17403--17404
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [525]
+Underfull \hbox (badness 10000) in paragraph at lines 17462--17463
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [526]
@@ -3380,7 +3540,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [528]
-Underfull \hbox (badness 10000) in paragraph at lines 17403--17404
+Underfull \hbox (badness 10000) in paragraph at lines 17563--17564
 
  []
 
@@ -3397,7 +3557,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [532]
-Underfull \hbox (badness 10000) in paragraph at lines 17563--17564
+Underfull \hbox (badness 10000) in paragraph at lines 17711--17724
 
  []
 
@@ -3405,24 +3565,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 17563--17564
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [533]
+Underfull \hbox (badness 10000) in paragraph at lines 17733--17742
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [534]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [535]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [536]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [537]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [538]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [539]
 Underfull \hbox (badness 10000) in paragraph at lines 17822--17823
 
  []
@@ -3450,7 +3603,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 17830--17831
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [536]
+Underfull \hbox (badness 10000) in paragraph at lines 17862--17872
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [537]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [538]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [539]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [540]
+Underfull \hbox (badness 10000) in paragraph at lines 17998--18012
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [541]
@@ -3460,10 +3635,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [543]
+Underfull \hbox (badness 10000) in paragraph at lines 18114--18120
+
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [544]
-Underfull \hbox (badness 10000) in paragraph at lines 17998--18012
+Underfull \hbox (badness 10000) in paragraph at lines 18166--18174
 
  []
 
@@ -3477,15 +3657,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [547]
-Underfull \hbox (badness 10000) in paragraph at lines 18114--18120
-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [548]
-Underfull \hbox (badness 10000) in paragraph at lines 18166--18174
+Underfull \hbox (badness 10000) in paragraph at lines 18314--18321
 
  []
 
@@ -3495,18 +3670,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [549]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [550]
+ [550](load luc: /Users/lawless/Library/texlive/2018/texmf-var/luatex-cache/gene
+ric/fonts/otl/lmroman10-bolditalic.luc)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [551]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [552]
-Underfull \hbox (badness 10000) in paragraph at lines 18314--18321
-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [553]
@@ -3567,6 +3738,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [572]
+Underfull \hbox (badness 1810) in paragraph at lines 19287--19296
+[]\TU/lmr/m/n/10.95 The spa-tial paradigm pre-de-ter-mines ana-logue think-ing 
+and a non-
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [573]
@@ -3579,12 +3756,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [576]
-Underfull \hbox (badness 2762) in paragraph at lines 19287--19296
-[]\TU/lmr/m/n/10.95 The spatial paradigm predetermines analogue thinking and a 
-non-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [577]
@@ -3987,12 +4158,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [710]
-Underfull \hbox (badness 3209) in paragraph at lines 24369--24375
-\TU/lmr/m/n/10.95 Talmudic-Rationalistic (pro-Evangelical, bourgeois-capitalist
-ic) on the
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [711]
@@ -4011,12 +4176,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [716]
-Underfull \hbox (badness 1259) in paragraph at lines 24598--24611
-[]\TU/lmr/m/n/10.95 Next came the fatal turning point. The Russian-Jewish, Eura
-sian-
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [717]
@@ -4101,12 +4260,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [744]
-Underfull \hbox (badness 1360) in paragraph at lines 25667--25676
-\TU/lmr/m/n/10.95 foundations and financial transnational corporations of the c
-apitalist
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [745]
@@ -4194,12 +4347,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [773]
-Underfull \hbox (badness 1072) in paragraph at lines 26768--26775
-\TU/lmr/m/n/10.95 grouped according to geopolitical orientations as follows: po
-tentially
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [774]
@@ -4434,40 +4581,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [851]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [852]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [853]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [854]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [855]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [856]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [857]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 29867.
 
-[858]
+[852]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 29867.
  (./translated_complete_cleaned_manual.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 29867.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 29867.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 29867.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 29867.
- ) 
-Here is how much of TeX's memory you used:
- 26076 strings out of 492970
- 472930 string characters out of 6133938
- 699535 words of memory out of 5000000
- 29829 multiletter control sequences out of 15000+600000
- 536575 words of font info for 71 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 56i,7n,117p,10429b,374s stack positions out of 5000i,500n,10000p,200000b,80000s
+)
 
-Output written on translated_complete_cleaned_manual.pdf (859 pages).
+Here is how much of LuaTeX's memory you used:
+ 28192 strings out of 494413
+ 125171,953878 words of node,token memory allocated
+ 597 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 1 kern, 14 attribute, 65 glue_spec, 14 attr
+ibute_list, 1 write, 1 user_defined, 6 pdf_action nodes
+   avail lists: 1:2,2:621,3:171,4:100,5:322,6:67,7:6272,8:65,9:205,10:27,11:445
+ 30642 multiletter control sequences out of 65536+600000
+ 70 fonts using 22469163 bytes
+ 56i,7n,117p,1211b,381s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-bolditali
+c.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-ita
+lic.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-b
+old.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman12-b
+old.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman10-r
+egular.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmroman1
+2-regular.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmrom
+an17-regular.otf>
+Output written on translated_complete_cleaned_manual.pdf (853 pages, 2292373 byt
+es).
+
+PDF statistics: 4731 PDF objects out of 5155 (max. 8388607)
+ 3814 compressed objects within 39 object streams
+ 902 named destinations out of 1000 (max. 131072)
+ 2065 words of extra memory for PDF output out of 10000 (max. 100000000)
+
