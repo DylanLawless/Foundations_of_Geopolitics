@@ -3,7 +3,7 @@
 
 [Link to PDF](https://github.com/DylanLawless/The_Basis_of_Geopolitics/blob/master/latex/translated_complete_cleaned_manual.pdf)
 
-The books was translated because I am unable to find it in English online. 
+The book was translated because I am unable to find it in English online. 
 This is not meant to reflect any endorsement of the content. 
 I am interested in the historical and geopolitical relevance.
 I translated this to make a LaTeX and epub version for my Ebook reader. 
